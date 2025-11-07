@@ -1465,6 +1465,27 @@ export default {
 
   <p>Writing this blog itself helped me a lot. I feel motivated and energized to work again—but it’s 1 AM and it’s time to sleep. Hopefully, I still have this enthusiasm in the morning.</p>
         `
+          },
+          {
+          id:43,
+          title:'100 days of entrepreneurship day 54',
+          slug:'100-days-of-entrepreneurship-day-54',
+          day:'54',
+          date:'November 7th, 2025',
+          snippet:"Will try to maintain the blog streak now. After reflecting yesterday, my day was kind of productive today",
+          content:`
+          <p>Hello readers</p>
+            <p>Will try to maintain the blog streak now. After reflecting yesterday, my day was kind of productive today. I implemented ChatGPT integration and added a new sharable result asset. Hope it works, as I’ve seen other people in subreddits share these kinds of posts.</p>
+
+  <p>Another thing I started today was keeping hourly logs of what I did each hour to keep myself accountable and to make every hour count. I waste time without even noticing it, so this should help me immensely. Just by writing the hourly logs, I found myself being productive. A great start, I guess. Started at 2 and accomplished a lot while still finding time to watch anime and other stuff in between. Let’s see how this system works for my productivity.</p>
+
+  <p>I also gave and read tests. My Enneagram came out as type 7, which is surprising because my app always gave me type 3 or 5. But type 7 felt more relatable. I need to put in a lot of effort into my app to make it more accurate. The reports for MBTI and Enneagram were vastly different. I can still make my report much better.</p>
+
+  <p>The idea has been validated as I earned $100. So people are willing to pay for this. Now I need to make the product actually work properly—make the analysis accurate and ensure the report gives a lot of value to the user. This should increase my conversion from 0.25% to 1%. After that, I’ll focus more on distribution.</p>
+
+  <p>I’ve started reading the book <em>Mastery</em> by Robert Greene. It talks a lot about apprenticeship, working hard during the initial years, and finding a mentor who guides us. I’ve done none of that. So I’ll focus much more on learning now rather than earning.</p>
+</body>
+            `
           }
         // Future blog posts will be added here with their own unique slug
       ] 

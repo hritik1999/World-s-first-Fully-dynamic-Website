@@ -1486,7 +1486,56 @@ export default {
   <p>I’ve started reading the book <em>Mastery</em> by Robert Greene. It talks a lot about apprenticeship, working hard during the initial years, and finding a mentor who guides us. I’ve done none of that. So I’ll focus much more on learning now rather than earning.</p>
 </body>
             `
-          }
+          },
+                  {
+          id:44,
+          title:'100 days of entrepreneurship day 55',
+          slug:'100-days-of-entrepreneurship-day-55',
+          day:'55',
+          date:'November 27th, 2025',
+          snippet:"My last blog was 7th November. Today is 27th November. 20 days I did nothing. Before 7th I worked and wrote for 3 days. Before that 9th October was the last blog. I waste time like I am an immortal.",
+          content:`
+          <p>
+My last blog was 7th November. Today is 27th November. 20 days I did nothing. Before 7th I worked and wrote for 3 days. Before that 9th October was the last blog. I waste time like I am an immortal. I have written many reflection blogs by now. Saying how bad it is then promising big changes and then 2 days later back to wasting time. This cycle has been going on for a long time.
+</p>
+
+<p>
+9th November was birthday and I turned 26. Less than 10 people called me on my birthday to wish me. I behave and believe that doesn’t affect me and I don’t care about my birthday but It does. I want a lot of people to call me and celebrate my birthday.
+</p>
+
+<p>
+I am 26 now and still no accomplishments. Just wasting time. People my age are doing all kinds of stuff. Exploring the world etc. I am here at my home wasting time. I want to do all those stuff. Idk why I keep going like this. I know what I need to do but all I do is waste time by watching anime, tv shows , YouTube, reading books and day dreaming.
+</p>
+
+<p>
+I don’t think I will achieve anything in live the way I am living. I want to change but I know that won’t. I have tried 100s of times but I always regress back to old behaviours. Idk how other people do it. Whats driving them to work hard and dedicate their lives to various things. Some people I get it they have to work just to survive and hence they do it. I have rich father and I don’t have work right now because of him. I am able to live a luxuries life but there are a lot of people like me who still go out and work on the things that matter to them. Why can’t I do that is a mystery to me. Why doesn’t anything matter to me? Why am I so nihilistic?
+</p>
+
+<p>
+Fuck the sobbing. So 2 days after my birthday my closest friend’s father died. I text him in the morning to say I woke up early if you are up lets go to our morning run. He replied that his father is not breathing. I instant got up and went to his house. His father was lying right beside the sofa. 2 of his family members were there and some people from the society were there. This was the first time I ever saw a dead body. It was tremendously traumatic. I called my father after a few minutes and while telling him what has happened I almost broke down to tears. Then I went back to my friend stayed with him the whole time for next few days for the various rituals in our religion. I can’t even fathom what Naman must be going through but he is strong man and is behaving like how he used to. He is a hardworking man with good emotional control. I aspire to be like him in life.
+</p>
+
+<p>
+While all this was happening I thought about Steve jobs quote about thinking what will I do if I die tomorrow everyday to decide what to work on. I couldn’t come up with any answers. I felt my life is meaningless. Maybe I am still in depression but I just don’t have suicidal thoughts anymore. This quote has been bothering me since then. Right now when I was wasting time again by watching random netflix shows. The answer came to me. I want to be a builder. I want to be known as someone who built awesome and cool stuff that people use and find useful.
+</p>
+
+<p>
+People half my age are building cool shit while I am just wasting time. I need to start being consistent. I don’t know how. All the things I have tried has failed. Right now I am feeling the urge to work 24 hours but by tomorrow I might again just start wasting time. IDK how do I fix this.
+</p>
+
+<p>
+Maybe moving out my house and going to Bangalore help. The change and environment might change the routine and habits but I might also end up wasting time and also my father’s money there. I don’t want to waste my father’s money anymore. I feel ashamed of using his money at this age.
+</p>
+
+<p>
+Another thought that I have is that I work hard and stay motivated when I am building cool shit. After that is done maintaining, updating and growing it is where fall off. I recently had the thought of adding gemini 3 to my site and that excited me. I also had a thought of implementing a comic feature on Silchat with the latest image models and that excited me but then I had the thought that I should be making and growing typemyvibe right now and I think I got overwhelmed and started wasting time again. But just by building random shit I cannot feed myself. TypeMyvibe has the potential to make substantial earnings.
+</p>
+
+<p>
+IDK what I will do and what I will become in life aside from a loser. I have realised that I am a man child. Who is 26 and still cant do the handwork. Still struggles with impulse control and long term planning and actions. But I have no option but to keep living and figure something out. I am too old now and I have too little time left to waste but somehow I still do. As I am done journaling all my thoughts ideas to waste time have already started popping up.
+</p>
+          `
+          },
         // Future blog posts will be added here with their own unique slug
       ] 
     };

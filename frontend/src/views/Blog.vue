@@ -263,6 +263,65 @@ export default {
     <li>Implement insights gained from report analysis</li>
   </ul>
           `
+        },
+        {
+          id: 4,
+          slug: 'TypeMyVibe-Take-2-Day-3', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 3',
+          date: 'January 23, 2025',
+          day: 3,
+          snippet:"Today I tested the email marketing feature and it worked as it was supposeto while testing. Sending email every minute for both nudge for report andconversion to paid. Then i pushed it live where it should send email on day1, 3 and 7 but it was sending it out every hour. Fixed that and hopefully itworks properly now.",
+          content: `
+          <p>Hello everyone,</p>
+
+    <p>
+      Today I tested the email marketing feature and it worked as it was suppose
+      to while testing. Sending email every minute for both nudge for report and
+      conversion to paid. Then i pushed it live where it should send email on day
+      1, 3 and 7 but it was sending it out every hour. Fixed that and hopefully it
+      works properly now.
+    </p>
+
+    <p>
+      Then I refactored the code of api as it was a 3k line of monolith file.
+      Codex fucking one shot it without any bugs. Crazy!
+    </p>
+
+    <p>
+      Then it was time to do the most important work. Changing the algorithm. I
+      procrastinated hard before starting this and when i did start I took the
+      easy way out. Told claude the changes that I need and how it should work.
+      It made those changes the results were better but not by much. Then asked
+      it for some more changes and now the analysis much worse than it was before.
+      I need to work hard on this and get this to work like how I want it to. The
+      whole success of the product depends on this.
+    </p>
+
+    <p>
+      While procrastinating I read an interesting article. Where the writer said
+      that he was not doing what he should be doing because doing that means he
+      might fail and become who had a lot of potential from failure. This
+      resonated with me a lot. I am someone with a lot of potential according to
+      me. I keep delaying to keep this delusion alive. Cause as soon as I start
+      the illusion might shatter and I am protecting that. I need to stop
+      delaying and embrace failure cause thats the only way to grow.
+    </p>
+
+    <p>
+      Tomorrow I will get the algorithm to work exactly like how I want it to in
+      the first half and in the second half I will iterate on the prompts of each
+      section to make it valuable. This week is the last week I will work on the
+      algorithm till further feedbacks from the users come.
+    </p>
+
+    <p>
+      February 1st the day I will start doing marketing everyday.
+    </p>
+
+    <p>
+      Thats the plan for now. Let’s see how everything goes.
+    </p>
+            `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

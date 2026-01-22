@@ -146,6 +146,123 @@ export default {
       either short-form content or Reddit/X.
     </p>
           `
+        },
+        {
+          id: 3,
+          slug: 'TypeMyVibe-Take-2-Day-2', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 2',
+          date: 'January 22, 2025',
+          day: 2,
+          snippet:'It’s the second day and I forgot to write the blog. So I am writing it on the 3rd day but will write one at the end of the day too. ',
+          content: `
+          <p>
+    Hello everyone,
+  </p>
+
+  <p>
+    It’s the second day and I forgot to write the blog. So I am writing it on the 3rd day but will write one at the end of the day too.
+  </p>
+
+  <p>
+    On the second day in the morning, I was using and checking a product called Aftermark AI. Its founder had reached out to me on X. The product is insanely good and I think it will be really helpful for me at the beginning.
+  </p>
+
+  <p>
+    I can use it to find engagement on Reddit and comment using it. I can create a variety of content using their AI like slideshow posts, wall of text, green screen memes, hook plus product demos, and Reddit posts. I can also schedule posts using it. So it’s going to be insanely helpful in marketing.
+  </p>
+
+  <p>
+    The founder is asking me for $90 per month and I think I will go for it. Investing now will make sure I start marketing and do not procrastinate anymore.
+  </p>
+
+  <p>
+    After that, I started working on the email marketing setup. When a user signs up but doesn’t make a report, they will get nudge emails to make a report. If they make a report but don’t purchase, they will get a conversion email.
+  </p>
+
+  <p>
+    The emails will be sent 1 day after, 3 days after, and 7 days after. I hope this increases the report creation and conversion rates.
+  </p>
+
+  <p>
+    I used AI to generate the emails and tested them on the live server. When I started the test, it sent 200 emails and exhausted my free daily limit. I will continue testing it today.
+  </p>
+
+  <p>
+    This was a bit sad, but I got a 10% CTR from the 200 emails, which was insanely good.
+  </p>
+
+  <p>
+    Next, I procrastinated by calculating what I need to do to reach my $10k MRR goal. I got the data for the last 2 months:
+  </p>
+
+  <ul>
+    <li>600k impressions</li>
+    <li>6k visits</li>
+    <li>655 signups</li>
+    <li>300 reports created</li>
+    <li>15 sales</li>
+  </ul>
+
+  <p>
+    So my CTR is 1%, visit to signup rate is 11%, signup to report creation is 50%, and report creation to purchase is 5%.
+  </p>
+
+  <p>
+    Overall, views to purchase is 0.0025%, which means 1 sale per 40k views.
+  </p>
+
+  <p>
+    To reach my goal of $10k MRR, I need 400 sales per month at $25 each, which is around 13–14 sales daily.
+  </p>
+
+  <p>
+    At my current conversion rates, I would need:
+  </p>
+
+  <ul>
+    <li>530k views daily</li>
+    <li>5.3k visitors</li>
+    <li>582 signups</li>
+    <li>267 reports created</li>
+    <li>14 sales</li>
+  </ul>
+
+  <p>
+    My cost per free report is $1 and fixed costs are around $300. At a 5% report-to-purchase rate, I would need 60 days per month to break even. At $10k MRR, the profit would be around $1,700.
+  </p>
+
+  <p>
+    These numbers do not look favorable. At my current conversion rates, it would be very hard to scale.
+  </p>
+
+  <p>
+    I need to improve my CTR with better targeting, improve my signup rate with better messaging, report creation seems fine, and I definitely need to improve sales.
+  </p>
+
+  <p>
+    If I can do that, the required views could drop to around 100k per day, which is much more achievable than 500k daily.
+  </p>
+
+  <p>
+    My unit economics are also not good. I need to modify the freemium model. I plan to limit users to 2 free reports and generate the full report only after payment. This should significantly reduce costs.
+  </p>
+
+  <p>
+    Let’s see how it goes. It’s going to be really difficult, but I will achieve it no matter what.
+  </p>
+
+  <p>
+    After procrastinating with numbers, I went back to the core task: creating new reports. I went through the analysis and reports and wrote down my thoughts on what can be improved. I gained a lot of insights and will implement them soon.
+  </p>
+
+  <h2>Goal for Tomorrow (Today)</h2>
+
+  <ul>
+    <li>Get the email marketing system fully working and live</li>
+    <li>Make some code refactors</li>
+    <li>Implement insights gained from report analysis</li>
+  </ul>
+          `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

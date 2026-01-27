@@ -322,6 +322,48 @@ export default {
       Thats the plan for now. Let’s see how everything goes.
     </p>
             `
+        },
+        {
+          id: 5,
+          slug: 'TypeMyVibe-Take-2-Day-4', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 4',
+          date: 'January 27, 2025',
+          day: 4,
+          snippet:'Day 3 was on Saraswati puja and the start of a long weekend. I fucking celebrated the long weekend like I have been working the whole time. I took a 4 day vacation at the start of the journey for no reason. My friends who work hard got free so I freed up my time too. I don’t know what to do with myself. I don’t know why I am this carefree. But what has happened has happened. I said no zero days and took fucking 4 zero days for no good reason.',
+          content: `
+          <p>Hello everyone,</p>
+          <p>
+        Day 3 was on Saraswati puja and the start of a long weekend. I fucking celebrated the long weekend like I have been working the whole time. I took a 4 day vacation at the start of the journey for no reason. My friends who work hard got free so I freed up my time too. I don’t know what to do with myself. I don’t know why I am this carefree. But what has happened has happened. I said no zero days and took fucking 4 zero days for no good reason.
+    </p>
+
+    <p>
+        While wasting time with my friends I finally understood what problem I am solving. Why people are into typology and personality systems. Most people are very confused about themselves. There is a deep identity crisis. That is exactly what I am solving with this product. Till now I thought this was entertainment like astrology, but it is much deeper and more impactful than that. It can genuinely help a lot of people.
+    </p>
+
+    <p>
+        It’s Tuesday and I am back at work now. Today I spent the whole day tweaking the algorithm and I might have cracked it. The accuracy has increased a lot. This was possible because even during those wasted days I was constantly thinking about the problem, and that gave me many insights.
+    </p>
+
+    <p>
+        Earlier, the prompt was just going through chats and typing users based on heuristics I had given. Now the process is much more complicated. First, it analyzes the chat for behavioral patterns and collects evidence. Then it does a deep analysis for each type, and this analysis is much more detailed now.
+    </p>
+
+    <p>
+        I also removed Attitudinal Psyche since it is less scientific. I added percentages for each Big Five trait, MBTI cognitive function, and Enneagram type. This makes the analysis feel more trustworthy for users.
+    </p>
+
+    <p>
+        Earlier I was not showing the analysis to users, but now I am. Hopefully this improves conversion rates. The display and content are still raw, but I will improve them over time.
+    </p>
+
+    <p>
+        Now that most of the analysis part is done, tomorrow I will focus on improving the report. I want each section to read like a self-help blog that is hyper-customized for the user. I will use the user’s own behavioral patterns to explain their problems and guide them on how to improve. Each section should be filled with actionable insights. I will work on this one section at a time.
+    </p>
+
+    <p>
+        I will also take tests on multiple personality websites, extract the best parts, and turn my reports into the best possible version. If all this goes well, I think I can increase the price of the report to $50. Let’s see how everything goes.
+    </p>
+          `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

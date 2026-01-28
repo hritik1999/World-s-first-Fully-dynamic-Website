@@ -364,6 +364,60 @@ export default {
         I will also take tests on multiple personality websites, extract the best parts, and turn my reports into the best possible version. If all this goes well, I think I can increase the price of the report to $50. Let’s see how everything goes.
     </p>
           `
+        },
+        {
+          id: 6,
+          slug: 'TypeMyVibe-Take-2-Day-5', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 5',
+          date: 'January 28, 2025',
+          day: 5,
+          snippet:` Today I had planned to work on the report, but I went through the analysis
+      and noticed a lot of things that could be improved. I ended up working on
+      that instead. The algorithm is pretty accurate now, and I think I can stop
+      working on it at this point.`,
+          content: `
+          <p>Hello everyone,</p>
+          <p>
+      Today I had planned to work on the report, but I went through the analysis
+      and noticed a lot of things that could be improved. I ended up working on
+      that instead. The algorithm is pretty accurate now, and I think I can stop
+      working on it at this point.
+    </p>
+
+    <p>
+      I have added the analysis details on the frontend. I am hoping this helps
+      create more transparency and trust. Let’s see how this goes.
+    </p>
+
+    <p>
+      I have also added a breakdown and graphs for the various functions of each
+      typology.
+    </p>
+
+    <p>
+      Now I won’t touch the algorithm at all and will focus entirely on the report.
+      It’s not perfect and I think it can still be improved, but I want to stop
+      tweaking it until I get more users and real feedback.
+    </p>
+
+    <p>
+      Currently, the report takes around 5–10 minutes to complete, and only after
+      that can the user see the report. I am now planning to roll out the report
+      progressively as it generates. This way, users will be able to start reading
+      within 1–2 minutes, which should improve engagement.
+    </p>
+
+    <p>
+      From tomorrow onwards, all my focus will be on improving the report and
+      increasing the value as much as possible for users. After that, my focus
+      will shift entirely to marketing. I will primarily focus on knowledge-based
+      marketing on Reddit and X through stories, insightful posts, and blogs.
+    </p>
+
+    <p>
+      At this rate, I might be able to start the marketing process next week.
+    </p>
+          `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

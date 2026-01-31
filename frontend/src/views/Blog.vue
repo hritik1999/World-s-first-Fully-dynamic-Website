@@ -469,6 +469,65 @@ export default {
       until I am satisfied with the reports.
     </p>
             `
+        },
+        {
+          id: 8,
+          slug: 'TypeMyVibe-Take-2-Day-7', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 7',
+          date: 'January 30, 2025',
+          day: 7,
+          snippet:'I again had some ideas about improvements in the algorithm and started tweaking it.At first it got worse, but then it got much better. It’s still not perfect, but it is a clear improvement. I have one more idea that I am going to try tomorrow.',
+          content: `
+          <p>Hello everyone,</p>
+           <p>
+      I again had some ideas about improvements in the algorithm and started tweaking it.
+      At first it got worse, but then it got much better. It’s still not perfect, but it
+      is a clear improvement. I have one more idea that I am going to try tomorrow.
+    </p>
+
+    <p>
+      Today, I did not procrastinate on the report and actually made changes. I had planned
+      to read test results from competitors and use that for improvement, but instead I
+      directly worked on the report and asked AI to make the changes I wanted. I kept
+      iterating like this. The report is much better now.
+    </p>
+
+    <p>
+      Tomorrow I will go deeper and do section-level changes. Tomorrow will be the last day
+      I tweak the algorithm. After that, my main focus will shift to marketing, with
+      development work limited to 2–3 hours a day at most.
+    </p>
+
+    <p>
+      The analysis is now much more detailed and can detect all types. The report reads very
+      professional and fun. It includes insights from all the types and uses data from the
+      user to make it highly personalized. There is still a lot of room for improvement,
+      but I will make those changes later. Right now, it is time to focus on marketing.
+    </p>
+
+    <p>
+      I also spoke to one of my old and closest friends about this, and he found the idea
+      awesome and sees the potential in it. He is smart, talented, and resourceful. I want
+      him to help me market this app, as that would increase the chances of growth.
+    </p>
+
+    <p>
+      However, he has no work ethic and is unreliable. This is a problem that both of us
+      share, but I have been actively working to fix my issues because this is high time
+      for me to learn and grow. He, on the other hand, is still in the same position.
+    </p>
+
+    <p>
+      Let’s see how this goes. I am not going to do a partnership with him. Instead, I will
+      prefer a revenue-sharing model, as it is safer given his unreliability. Most probably
+      he will be gone before we even start, but if he gets serious, I am sure we can make
+      this app reach 10k MRR this year.
+    </p>
+
+    <p>
+      Whether he joins or not, I am going to try my best to reach that goal this year.
+    </p>
+            `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

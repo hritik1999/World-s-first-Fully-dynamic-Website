@@ -528,6 +528,40 @@ export default {
       Whether he joins or not, I am going to try my best to reach that goal this year.
     </p>
             `
+        },
+        {
+          id: 9,
+          slug: 'TypeMyVibe-Take-2-Day-8', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 8',
+          date: 'January 31, 2025',
+          day: 8,
+          snippet:'      The new idea I had for analysis didn’t work. It looked good but didn’t work.So I rolled back to the previous one but it was not giving the correct results.',
+          content: `
+          <p>Hello everyone,</p>
+              <p>
+      The new idea I had for analysis didn’t work. It looked good but didn’t work.
+      So I rolled back to the previous one but it was not giving the correct results.
+    </p>
+
+    <p>
+      It gave the correct results yesterday in my rigorous testing but for no reason
+      it stopped working today. I have no idea why. After that I spent the whole day
+      trying to get it to work. I made no progress on the report which I had planned
+      to do today. Instead I kept wasting my time on the analysis part.
+    </p>
+
+    <p>
+      Even with all the fixes I tried today it is not working how it was working
+      yesterday. I don’t know why this happened and it is really frustrating.
+    </p>
+
+    <p>
+      Now tomorrow for Sunday my plan was to take the day off and just work on company
+      registration and making TikTok account, Reddit account and other things but now
+      I will also improve the report tomorrow.
+    </p>
+            
+            `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

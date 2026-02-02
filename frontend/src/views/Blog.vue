@@ -562,6 +562,28 @@ export default {
     </p>
             
             `
+        },
+        {
+          id: 10,
+          slug: 'TypeMyVibe-Take-2-Day-9', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 9',
+          date: 'February 2, 2025',
+          day: 9,
+          snippet:'Yesterday on Sunday I had planned to work but spent the whole day watching Netflix and then hanging out with friends. Now on Monday I am doing the work I was supposed to do yesterday.',
+          content: `
+          <p>Hello everyone,</p>
+          <p>Yesterday on Sunday I had planned to work but spent the whole day watching Netflix and then hanging out with friends. Now on Monday I am doing the work I was supposed to do yesterday.</p>
+
+<p>Even today I wasted half the day. After that when I started working I was working on the algorithm again. Made a lot of changes and it is much better now. Refactored the whole code so it much more readable too. There was a single monolith file with more than 4k lines of code. The analysis much more thorough and systematic. </p>
+
+<p>I finally submitted all the documents required for company registration. Now they will review it and then the future steps will start. This will take about a month to complete.</p>
+
+<p>Lastly I had planned to start marketing by creating a TikTok account , new reddit, X, YouTube and Instagram account. I arranged an old iPhone for this But the new email I had created for this purpose in gmail is not working. When I am trying to login it says invalid credentials but thats not possible cause it is saved in my password manager. Now I need to create a new one and I fear it will face the same problem. I needed to setup up a Hetzner VPS with a VPN so that all my accounts target US audience but signing up for Hetzner is not working for some reason. Tried it multiple times. </p>
+
+<p>Report I still haven’t touched it. The most important part of my product. I am now procrastinating but not like before by not doing anything. Instead I am procrastinating by doing things that don’t matter that much and delaying what needs to be done to achieve my goals.</p>
+
+<p>Plan for tomorrow is I will setup new email id, iPhone , outline vpn in Hetzner. Then new accounts in all the social media and warm them up a little bit to make the algorithm show things in my niche. I will also bookmark inspiration content for the content I will create. In the second half I will finally start improving the report. </p>
+            `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

@@ -606,6 +606,35 @@ export default {
 
 <p> plan for tomorrow is warm up the TikTok account for the next few days. Also make a new X and reddit account and start warming them up too. Finally start improving the report. Also I am thinking about improving the user experience by adding some text like an onboarding step. Take them through a journey. This might lead to more report creation and more conversions but lets see how that goes</p>
           `
+        },
+        {
+          id: 12,
+          slug: 'TypeMyVibe-Take-2-Day-11', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 11',
+          date: 'February 4, 2025',
+          day: 11,
+          snippet:'Today I made some big changes that I have been planning to do for a long time<',
+          content: `
+          <p>Hello everyone,</p>
+            <p> Today I made some big changes that I have been planning to do for a long time</p>
+
+<p>First change I made was add boarding step before upload chat. It includes why typemyvibe is works and is better, what they will get, reassurance about privacy and data safety and the process. Hopefully this increases the upload rate. </p>
+
+<p> Second change that I made was make it more educational. Typology section in the report till now just showed the analysis output but now I have added what each typology is. Explained the various sections in the analysis report so people are aware whats written there and why it matters. Hopefully this increases the trust and credibility in the user.</p>
+
+<p> Third I implemented progressive rollout of the report. Till now the users had to wait till the whole report generation was completed and only then they could read the report. Now as soon as the first typology is analysed they can start reading its results which happens within 60 seconds. </p>
+
+<p> Fourth till now the whole report was being generated for each user costing me a lot of tokens and money. Now only the introduction , strength and weakness is generated and rest will be generated when they way or complete the referrals. </p>
+
+<p> For marketing I have created a new reddit account and X account. I am still warming up the tiktok account and have started warming up the reddit account. Need to gain a little karma before I can start posting. </p> 
+
+<p> I also downloaded Capcut and watched some tutorials for it. I think I can start making content with it.</p>
+
+<p> I still haven’t made any changes to the report which is the most important part of my product. I am still procrastinating on it. I should I have done this on Saturday and it Wednesday now. Tomorrow I have to do this. Also I need to refactor and revamp the report page. As it has more than 4k lines of code and doesn’t look that good but it’s a later priority. First the content of the report needs to be upgraded</p>
+
+<p> I have decided to focus on 3 channels for marketing. Reddit, Tiktok and SEO. Tomorrow I am gonna try to make my first content as tomorrow is the third day and thats more than enough of warming up. I can start posting from day after tomorrow. </p>
+
+                `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

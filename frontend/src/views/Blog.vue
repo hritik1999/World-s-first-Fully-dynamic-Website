@@ -635,6 +635,30 @@ export default {
 <p> I have decided to focus on 3 channels for marketing. Reddit, Tiktok and SEO. Tomorrow I am gonna try to make my first content as tomorrow is the third day and thats more than enough of warming up. I can start posting from day after tomorrow. </p>
 
                 `
+        },
+        {
+          id: 13,
+          slug: 'TypeMyVibe-Take-2-Day-12', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 12',
+          date: 'February 5, 2025',
+          day: 12,
+          snippet:'Today I finally made some progress on the report. I had been procrastinating on it for a long time.',
+          content: `
+          <p>Hello everyone,</p>
+          <p> Finally made some progress with the report today. I had been procrastinating on it for a long time.</p>
+
+<p> The progress was not how I planned it but still some progress. The first thing I did was improve the rules of the report, the made updates to the sections.</p>
+
+<p> Next I implement I a book like synthesis. Cause I was noticing a lot of a lot of repeated content. Now it maintains a state of what all have been said and uses it to generated the next section. Now all the sections are generated in sequence instead of parallel. This increases the time but improves the quality by a lot. To mitigate this time issue I have implemented progressive roll out of the report. So as soon as a section is done it will be visible for the user.</p>
+
+<p> Yesterday I implemented partial report generation of the report to save token cost but I overlooked an important aspect that when a user pays there will be a delay in his report generation if another analysis was going on. So I fixed this today too. So unless 2-3 people pay at the same time it should not be an issue.</p>
+
+<p> I have made top level improvements to the report but I still haven’t thoroughly gone through each part and analysed it to improve. I will do this tomorrow. Hopefully tomorrow the report should become upto the mark and I can increase the price of the report to 29$. </p>
+
+<p> My plan for today with the report also included making 1 content for tiktok but I procrastinated it by working on the report whole day. I need start doing that as without traffic all my hard work has no value.</p>.
+
+<p> Plan for tomorrow is to spend the first half working on the report and in the second half figure out eating and create a few content for Tiktok.</p>
+            `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

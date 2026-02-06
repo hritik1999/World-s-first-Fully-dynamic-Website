@@ -659,6 +659,36 @@ export default {
 
 <p> Plan for tomorrow is to spend the first half working on the report and in the second half figure out eating and create a few content for Tiktok.</p>
             `
+        },
+                {
+          id: 14,
+          slug: 'TypeMyVibe-Take-2-Day-13', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 13',
+          date: 'February 6, 2025',
+          day: 13,
+          snippet:'Today was a big day for AI. Claude and OpenAI both released their latest model within an hour of each other. The whole internet is torn between the two right now.',
+          content:`
+          <p>Hello everyone, </p>
+          <p> Today was a big day for AI. Claude and OpenAI both released their latest model within an hour of each other. The whole internet is torn between the two right now.</p>
+
+<p> Claude offered me 50$ and openai x2 their limits for the launch. I plan to abuse this hard.</p>
+
+<p> I use both of them everyday. So I spent the whole day experimenting with them to improve the analysis and the report. The improvements to both of them are crazy. The are able to find and debug almost anything in one shot. </p>
+
+<p> I was able to get both of them to run a analysis and then read the analysis and the report and give feedback on them. Then have them to improve the things they noticed. Doing this alone i was able to improve a lot of things in the report and analysis.</p>
+
+<p> But I am still avoiding reading the report myself and finding ways to improve them. This is the most important thing that I need to do aside from marketing. </p>
+
+<p>Today while scrolling TikTok I found a competitor. Another company called Mosaicchat that takes chat and gives insight about mbti. I tried there platform and the analysis was completely wrong. Mine is much better. There report was also really shallow. The way there are monetising is with a coach. But they have more than 10k users and claim they have analysed more than 10 million interactions.</p>
+
+<p> I am happy that I found a competitor as it validates my idea and proofs that people are willing to export there chats. The marketing of my app is simple. They have a very basic format that they keep posting and they have been doing it for almost a year now. They have almost half a million likes and 10k followers in tikTok. There landing page is too good but product is shit.</p>
+
+<p> Today I said I will make content just like the last 3 days but I end up procrastinating it. I need to get started as my competitors already doing very well with it.</p>
+
+<p> I always start my day with coding and just keep going at it till the end of the day. So tomorrow I will start with content and only when it’s done I will start working on the code. This should fix the procrastination problem.</p>
+
+<p> So plan for tomorrow is first make 2-3 content even using basic templates from Capcut works. Then read the reports and note down my thoughts. Then make improvements. Repeat.</p>
+          `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

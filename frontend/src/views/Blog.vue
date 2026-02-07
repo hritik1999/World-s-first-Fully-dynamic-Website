@@ -689,7 +689,35 @@ export default {
 
 <p> So plan for tomorrow is first make 2-3 content even using basic templates from Capcut works. Then read the reports and note down my thoughts. Then make improvements. Repeat.</p>
           `
-        }
+        },
+        {
+          id: 15,
+          slug: 'TypeMyVibe-Take-2-Day-14', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 14',
+          date: 'February 7, 2025',
+          day: 14,
+          snipeer: 'Today I finally made content and posted. After procrastinating for such a long time.',
+          content:
+            `
+            <p>Hello everyone,</p>
+
+<p>Today I finally made content and posted. After procrastinating for such a long time.</p>
+
+<p> Since I found my competitor doing so well my drive to marketing has increased a lot. I kind of copied his most used content which was consistently getting good views and likes. It was posts comparing two types typing style. I took inspiration from the format and created content about difference between same mbti but different enneagram.</p>
+
+<p> The way I created can be automated to create at scale. I took my competitors content. Gave it to claude along with the idea of the type of content I want and asked it to give me prompt for an image model to create a similar content. It gave me prompts which I inputed to various AI models and chatgpts was best. I can create 100s of variation of this content and automatically to with a little bit of coding.</p>
+
+<p> I posted it at US time 8am on a Saturday. Almost 1 and half hours ago and got 7 likes , 10 profile visits and 233 views from my first post. Lets see how many visit after reading my bio.</p>
+
+<p> For the next few days I will only post 1 content in a day and later increase it to 2 content per day.</p>
+
+<p> I finally read one of my reports and it is actually decent. A little more improvements can be done which I will keep working on but keep marketing my priority and do it first thing in the morning.</p>
+
+<p> I also implemented some UX upgrades which should make the experience better for the user but wasn’t able to test it as my vscode was giving some weird problems.</p>
+
+<p> Tomorrow is sunday and I don’t work on Sundays	but I will upload my second content in the evening and also will go through another report and the prompts to get some insights on improvements.</p>
+          `
+        }    
         // Future blog posts will be added here with their own unique slug
       ] 
     };

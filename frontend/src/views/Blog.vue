@@ -717,6 +717,40 @@ export default {
 
 <p> Tomorrow is sunday and I don’t work on Sundays	but I will upload my second content in the evening and also will go through another report and the prompts to get some insights on improvements.</p>
           `
+        },
+        {
+          id: 16,
+          slug: 'TypeMyVibe-Take-2-Day-15', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 15',
+          date: 'February 9, 2025',
+          day: 15,
+          snippet:'Today I took care of one month of content in a genius way. I am really proud of myself because it.',
+          content: `
+         <p>Hello everyone,</p>
+
+<p> Today I took care of one month of content in a genius way. I am really proud of myself because it.</p>
+
+<p> So this morning I was creating content for today and tomorrow.I had a genius idea. What if I asked Claude co-work to create a content calendar and prompts for the next day 30days with 2contents each day. It worked. I have prompts for 2 content for next 30 days. </p>
+
+<p> Now for next 30 days I just need to copy the prompts in Chatgpt, Download the content, remove metadata and then send it to my device to schedule it. This would take maximum 30 minutes daily.</p>
+
+<p> Today was the third day of me posting content in TikTok. I am getting 100-200 views per post and almost 10 likes. As far as I know weekend post gets the least views so I might get more views from today onwards. </p>
+
+<p> The vpn setup is working well as I am getting 70% US visitors. Thats a big relief.</p>
+
+<p> Since content for this account is taken care of I can focus on learning and making video contents that get much more engagement. The content in typology niche that gets a lot of views is type characters. So I have to make those kind of videos next. This can be a huge plug for my product as I can insert vibe cards from products analysis and at the end have CTA to tell them to visit my site to read the analysis details.</p>
+
+<p> To make the above content I need to add subtitles analysis. Which shouldn’t take much time and then start analysis shows one by one. I am also thinking of making another tiktok account that solely focuses on character analysis. The current one will do info slideshow posts.</p>
+
+<p> Today for dev work I only did minor UX improvements. Read a report and wrote down the possible things that can be improvement. Went through the prompts a little to see what could be improved.</p>
+
+<p> Yesterday sunday I thought I would work but I didn’t I just posted the content and nothing else. I am thinking I should come to the co-working space even on Sundays. Thats the only way for me to work.</p>
+
+<p>For tomorrow first I will make 2 more content and schedule them. Then I will focus on improving the report prompts.</p>
+
+<p> Long them vision right now is get the report and analysis to work at a satisfactory level. Then implement subtitles analysis. Improve the landing page. Improve the personality database setup and frontend page. Then start analysing popular shows daily and start making post and TikTok about it daily.</p>
+
+          `
         }    
         // Future blog posts will be added here with their own unique slug
       ] 

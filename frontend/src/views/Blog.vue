@@ -751,6 +751,36 @@ export default {
 <p> Long them vision right now is get the report and analysis to work at a satisfactory level. Then implement subtitles analysis. Improve the landing page. Improve the personality database setup and frontend page. Then start analysing popular shows daily and start making post and TikTok about it daily.</p>
 
           `
+        },
+        {
+          id: 17,
+          slug: 'TypeMyVibe-Take-2-Day-16', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 16',
+          date: 'February 10, 2025',
+          day: 16,
+          snippet:'Today was kind of lazy day. I got too exhausted at the gym today and felt very lazy to anything but did some work tho.',
+          content: `
+          <p>Hello everyone,</p>
+
+<p> Today was kind of lazy day. I got too exhausted at the gym today and felt very lazy to anything but did some work tho.</p>
+
+<p> Since yesterday I had decided to start posting 2 contents a day in Tiktok. One at morning 8am and one at 8pm US time. To post at 8pm US time I would have to wake up at 6am. So I decided to use Tiktok studio’s scheduler to schedule the post and the post went like at that time but it didn’t get any views for some reason. So I deleted it and re-uploaded at US time 12pm when I woke. It only got 100 views.</p>
+
+<p> Including today’s post I have I have uploaded 5 content and got around 1k views total and only 32 likes. No visitors from tikTok yet. I know it will take time but I don’t have much patience. I think I should start including a CTA at the end of all my slideshows. So that some of the 1k viewers visits. Instead of hoping them visiting my profile and then visiting the link.</p>
+
+<p> I have again scheduled a post for tomorrow. Let’s see if the same thing happens again. </p>
+
+<p> The content automation I did yesterday had some flaws like the character prompts were same the content had some problem. So I had to spend an hour to fix them but the content is really good now.</p>
+
+<p> I also improved the reports UX today. The card that is made is much better and sharable now. This is something that typology enthusiasts will share. Once I get some people it should increase the visitors as they will share with there friends.</p>
+
+<p> Last I read another report and I couldn’t find more issues that needs to be addressed. So I finally gave a detailed instruction prompt based on all insights to the AI to fix. I haven’t read the new report from the new prompts but I am hoping there are better. I will go through them tomorrow.</p>
+
+<p> I also explored discord and reddit communities today for getting early users. A lot of discord channels had share results option. Maybe I can share my new result card there and that will bring some traffic to the site. I will try this tomorrow.</p>
+
+</p> Plan for tomorrow is to see the report updates and make tweaks accordingly. Then increase the price to 29$. Also post in some subreddits and discord channels.</p>
+
+          `
         }    
         // Future blog posts will be added here with their own unique slug
       ] 

@@ -781,6 +781,37 @@ export default {
 </p> Plan for tomorrow is to see the report updates and make tweaks accordingly. Then increase the price to 29$. Also post in some subreddits and discord channels.</p>
 
           `
+        },
+        {
+          id: 18,
+          slug: 'TypeMyVibe-Take-2-Day-17', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 17',
+          date: 'February 11, 2025',
+          day: 17,
+          snippet:'Today I made some improvements to the report and increased the price to $29.',
+          content: `
+          <p>Hello everyone,</p>
+
+<p> Today I think I almost nailed the report. I have made all the changes that I think was needed and increased it price to 29$.</p>
+
+<p> I am exhausted after reading multiple reports today. I will read the latest report tomorrow to see if everything is alright. But I did glance over it and it looked good.</p>
+
+<p> I need to rearrange the sections in a order that would keep the user engaged. I have read the report and rank the each and every section.</p>
+
+<p> So today is the last day I touch report or analysis. I will keep reading new report everyday and do minor updates only if I gain some insight for improvement.Max I will spend is 1 hour on this not more than that.<p>
+
+</p>I posted 2 contents today too in tikTok still getting about 200-300 views. I have 8 followers now. Still a long way to go. IDK how long will it take but I need to be consistent.</p>
+
+<p> I also did some minor  UX improvements to the CTAs in the report. Hope they help. I have added testimonials to every cta.</p>
+
+<p> I also posted the test results in 3 discord servers. Only one person said they will try it. Each one of them only have a few thousand members but they are my ICP. So hopefully more people see it and try the app. </p>
+
+<p> I got a mail that I got 350 clicks from google search and I had just made some placeholder content using AI. I need to focus on SEO too but I have no idea where to start and what to do but figuring this out can help me bring a lot of customers for free.</p>
+
+<p> For tomorrow I will make the 2 content. Read a report. Make some minor changes. Not spend more than 2 hours in this. Then I will experiment with closed source models as an option to see how much of a difference they make. And if they do make a lot of difference then I will add it as a paid option. </p>
+
+</p> Other things that I need to do is add a admin dashboard. Fix and implement proper personality database. Add subtitle analysis and start analysis shows daily and upload content about it in reddit and tikTok. Lastly I need to revamp the landing page so it converts better but I have no idea how.</p>
+          `
         }    
         // Future blog posts will be added here with their own unique slug
       ] 

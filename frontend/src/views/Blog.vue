@@ -812,6 +812,29 @@ export default {
 
 </p> Other things that I need to do is add a admin dashboard. Fix and implement proper personality database. Add subtitle analysis and start analysis shows daily and upload content about it in reddit and tikTok. Lastly I need to revamp the landing page so it converts better but I have no idea how.</p>
           `
+        },
+        {
+          id: 19,
+          slug: 'TypeMyVibe-Take-2-Day-18', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 18',
+          date: 'February 18, 2025',
+          day: 18,
+          snippet:'Today a reddit post got a lot of traction and brought a 78 visitors,.52 signups and 21 reports got made. Crazy. I also hit double digit followers in tikTok but no sale. :(',
+          content:`
+          <p>Hello everyone,</p>
+
+<p> Today a reddit post got a lot of traction and brought a 78 visitors,.52 signups and 21 reports got made. Crazy. I also hit double digit followers in tikTok but no sale. :( </p>
+
+<p> the subreddit was called typology junction so were my core audience. So the insane signup and report creation rate makes sense but no one bought the report. So I need to work on this. I did get roasted by some but that was expected.</p>
+
+<p> My plan for today was to create 2 content. That I did. Then read a report and make small updates and not spend much time on this but I ended up spending the whole day in this because some users in reddit pointed out some major flaws. </p>
+
+<p> My total tiktok views have crossed 2k from all 10 contents. Profile visit has increased a lot. Total likes is 48 but I am not getting any comments. Need to work on engagement.</p>
+
+<p> Some of the people who can left feedback but it was all positive cause the people who found it nice were the only ones who left a feedback but I have everyones reddit id so I will dm them tomorrow to ask for feedbacks.</p>
+
+<p> Tomorrow I will implement the closed source model paid version. Improve the feedback mechanism to get better insights. Update the email marketing templates to get some conversions from there.</p>
+          `
         }    
         // Future blog posts will be added here with their own unique slug
       ] 

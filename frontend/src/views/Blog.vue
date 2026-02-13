@@ -817,7 +817,7 @@ export default {
           id: 19,
           slug: 'TypeMyVibe-Take-2-Day-18', // <-- Added slug
           title: 'TypeMyVibe Take 2 Day 18',
-          date: 'February 18, 2025',
+          date: 'February 12, 2025',
           day: 18,
           snippet:'Today a reddit post got a lot of traction and brought a 78 visitors,.52 signups and 21 reports got made. Crazy. I also hit double digit followers in tikTok but no sale. :(',
           content:`
@@ -834,6 +834,31 @@ export default {
 <p> Some of the people who can left feedback but it was all positive cause the people who found it nice were the only ones who left a feedback but I have everyones reddit id so I will dm them tomorrow to ask for feedbacks.</p>
 
 <p> Tomorrow I will implement the closed source model paid version. Improve the feedback mechanism to get better insights. Update the email marketing templates to get some conversions from there.</p>
+          `
+        },
+        {
+                    id: 20,
+          slug: 'TypeMyVibe-Take-2-Day-19', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 19',
+          date: 'February 13, 2025',
+          day: 19,
+          snippet:' Today I fixed all the minor feedbacks that I have received yesterday. So those problems are gone but I am really sad and feeling really low today.',
+          content:`
+          <p>Hello everyone,</p>
+
+<p> Today I fixed all the minor feedbacks that I have received yesterday. So those problems are gone but I am really sad and feeling really low today.</p>
+
+<p> A lot of people made report yesterday. Total visitor were 120, signups were 71 and reports made were 58 but no sale. A lot of people’s report failed because a bug that I had not encountered during testing. I have fixed it but I am really sad that a lot of people got wrong result because it.</p>
+
+<p> I went through the recording of a lot of users from yesterday. Most of them just read the analysis details and not the report’s introduction but I get those were all typology geeks so that was what interested them more.</p>
+
+<p>I text I have implemented email template updates so that they don’t go to spam or promotion. I implemented an admin panel so that I can see the data clearly instead of calculating it manually.</p>
+
+<p>I realised that a lot of problem was happening because gpt-120b-oss is a very small and weak model compared to what is available today and was hallucinating a lot. So I thought of using other open source models that are very powerful and I settled for deepseek-v3.2. it the third most powerful open source model and its cheap too so a good choice but the problem now is that its very slow. The previous model gave me 500 token per second but this gives 20tps decreasing the wait time by a lot. The wait time is brutal but the accuracy and the quality is much better. I have to make some changes in the architecture but I think I can make it faster.</p>
+
+</p> For now I will pause on the marketing except posting in tikTok. I will try to perfect the report and the analysis with the new model then post in that subreddit again to see the response.</p>
+
+<p> For tomorrow the goal is to increase efficiency and accuracy with the new model.</p>
           `
         }    
         // Future blog posts will be added here with their own unique slug

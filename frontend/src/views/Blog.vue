@@ -860,6 +860,35 @@ export default {
 
 <p> For tomorrow the goal is to increase efficiency and accuracy with the new model.</p>
           `
+        },
+        {
+        id: 21,
+          slug: 'TypeMyVibe-Take-2-Day-20', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 20',
+          date: 'February 14, 2025',
+          day: 20,
+          snippet:' I have no idea how the day went and what I accomplished today.',
+            content:`
+            <p>Hello everyone,</p>
+
+<p> I have no idea how the day went and what I accomplished today.</p>
+
+<p> The first thing that I wanted to was to improve my current tiktok content. People were dropping off after the initial 2-3 slides. The main reason was that 3rd slide onwards the content got heavy. Also I want to add CTA to typemyvibe directly. I tried doing this with claude cowork and it din’t work at first. My code was also not working. I have no idea why. </P>
+
+<p>Turns out my storage was full and it was causing the problem. I sat for 30minutes and cleared the storage. Now I have 50 more gb free.</p>
+
+<p> Claude cowork start working and it implemented the change but not like how I wanted it to. Then I told it the changes again and my limit was reached which would reset 6:30 in the evening but this was an important task so I decided to purchase some credits but my card doesn’t work in claude. IDK what to do. So I waited till 6:30.</p>
+
+</p> The analysis and report part. I have no idea how I can improve it and fix it. I know it’s not good but I have no direction. The deep seek model although very good but it was extremely slow so I dropped it since the improvement in accuracy was minimal compared to the loss in speed. I am still thinking about doing the final analysis with deep seek and the initial chunk level with gpt-oss. This way I might get the best of both worlds.</p>
+
+</p> I just implemented one small code improvement but I have got some more idea of improvements from gemini model. I have make a systematic improvement to the analysis. I can use the people who commented on reddit as test cases and create an automated test. This way it should become more accurate,</p>
+
+</p> I have no idea what I will do tomorrow but I have figured out my ICP. My ICP is people who know about typology and are interested in getting deeper knowledge. Which somehow gemini told me months ago. I have figured this out but still no idea how to use this. </p>
+
+</p> For tomorrow I will make the contents. Create a test that uses reddit uses account and then make iterations on the algorithm.</p>
+
+</p> I need to do some UX work too I will improve the feedback system. Get more deeper insights for all sections.</p>
+            `
         }    
         // Future blog posts will be added here with their own unique slug
       ] 

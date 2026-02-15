@@ -889,7 +889,35 @@ export default {
 
 </p> I need to do some UX work too I will improve the feedback system. Get more deeper insights for all sections.</p>
             `
-        }    
+        } ,
+        {
+                  id: 22,
+          slug: 'TypeMyVibe-Take-2-Day-21', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 21',
+          date: 'February 15, 2025',
+          day: 21,
+          snippet:'Today was the first sunday I came to work on sunday and it was the most productive day I ever had. I have only worked 5 hours but accomplished more I this 5 hours than I did in the last 3 days.',
+          content:`
+          <p>Hello everyone,</p>
+
+<p> Today was the first sunday I came to work on sunday and it was the most productive day I ever had. I have only worked 5 hours but accomplished more I this 5 hours than I did in the last 3 days.</p>
+
+<p> The reason behind the productivity is I took 12grams of creatine. I have been reading about the research that that creatine removes sleep deprivation effects and boosts cognitive ability but was skeptical about it cause the recommended dosage is just 5grams. But today was I was severely sleep deprived with only 4 hours of sleep and decided to try it and the results are crazy. Tho I wouldn’t do this regularly cause long term effect of such high dosage is still unclear.</p>
+
+<p> Today I improved the UX of the report such that conversion increases. Then I  implemented a new feedback system that asks about everything from type accuracy to relatability. Before it was just rating and few words. So I was giving away 2 sections and vibe card for free but now I am getting a lot of value for the free stuff I give.</p>
+
+<p> In the upload stage I had been asking the user for any questions they want to ask but I add not been storing it. So I implemented a way to store it too. This will help me gain a lot of insight on what the user wants.</p>
+
+<p> Next I started working on few things that would increase my accuracy by a lot and reduce noise in the prompts but I reached the rate limits of both my coding agent in 4 hours and this usually takes me a whole day to do. So yes the productivity was insane today.</p>
+
+<p> Next I had an idea that would increase my products credibility , trust and engagement. Also solve the problem of latency that the more powerful model at the final stage was gonna add. So I will add a proper UX from report generation and show user whats happening. As soon as a chunk analysis is done I will show them behaviour patterns with proper animations and details to keep them engaged. Then when the final analysis is done I will show them that typologies meaning and why. While the next typology will be being analysed in the background. So they will be engaged while the report will be generating. Then when its done they will directly read the introduction that should push them to purchase will all the credibility that is being built through transparency.</p>
+
+<p> Plan for tomorrow is to do the prompt updates and then implement the new model at final stage and then implement the UX feature.</p>
+
+<p> Even writing this journal took me much less time than normal and I was able to write much than normal too. The creatine affect is too powerful.</p>
+ 
+          `
+        }   
         // Future blog posts will be added here with their own unique slug
       ] 
     };

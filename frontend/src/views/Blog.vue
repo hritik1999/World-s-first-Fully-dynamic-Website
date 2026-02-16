@@ -917,6 +917,29 @@ export default {
 <p> Even writing this journal took me much less time than normal and I was able to write much than normal too. The creatine affect is too powerful.</p>
  
           `
+        },
+        {
+          id: 23,
+          slug: 'TypeMyVibe-Take-2-Day-22', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 22',
+          date: 'February 16, 2025',
+          day: 22,
+          snippet:'Today I implemented the new model in the final stage and it is working well. The accuracy has improved a lot but the latency is also there but the new UX that I implemented is solving that problem.',
+          content:`
+          <p>Hello everyone,</p>
+
+<p>From today onwards I have decided to post 3 content in tikTok everyday. I finally implemented the UX feature I was taking about and it’s live now. </p>
+
+<p> So I have been posting on tikTok for a week now. 2 contents everyday. According to the data my peak user activity is at 9-10am, 2-3pm and 9-10pm. So I will be posting 3 contents at those times from now onwards.</p>
+
+<p> So I implemented using deepseek model at the final stage. Before the report took around 10minutes to generate now it’s almost double. But the quality of the result is also much better. There are some optimisation that I can do but still won’t get much better.</p>
+
+<p> to handle the long wait time I have implemented the UX plan I talked about. Now when the user is in queue he sees typology facts. If he his analysis has started he will see his behaviour patterns with a nice transition animation and his text that show that pattern. When the first typology is completed he will be able to read the details of that typology. While he reads his next one should be ready. The only bottle neck right now is the report generation time and I will work on improving that. </p>
+
+<p> I hope is that this update should keep the user’s engaged during the wait time and also increase trust due to the transparency.</p>
+
+<p>For tomorrow my goal is to improve the report generation speed and improve the content that the user will be reading during the generation.</p>
+          `
         }   
         // Future blog posts will be added here with their own unique slug
       ] 

@@ -940,7 +940,32 @@ export default {
 
 <p>For tomorrow my goal is to improve the report generation speed and improve the content that the user will be reading during the generation.</p>
           `
-        }   
+        } ,
+        {
+          id: 24,
+          slug: 'TypeMyVibe-Take-2-Day-23', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 23',
+          date: 'February 17, 2025',
+          day: 23,
+          snippet:' Today I made little to no progress. The updates that I did made the analysis quality worse and I have no idea why. ',
+          content:`
+          
+<p>Hello everyone,</p>
+
+<p> Today I made little to no progress. The updates that I did made the analysis quality worse and I have no idea why. </p>
+
+<p> Aside from that my tiktok reach has been the same. I need to change the content that I making but I don’t any direction. I can start explainer series. The content should be simple and the engagement should increase hopefully.</p>
+
+<p> My codex and Claude’s weekly limit is over. So I won’t be able to make updates for the next 2 days.</p>
+
+<p> Next I am brainstorming ways of why I conversion is nil with AI. So the reason it seems is my free tier is very generous and I have been giving a lot of content for free. I give analysis details , introduction and for feedback I give the vibe card away and also 2 sections from the report. So apparently the user has no need to buy the report.</p>
+
+<p> So my plan to make the free tier just give the introduction and for feedback I will give just strengths. In the upload step mention for paid is not there I will add a button for paid their and the difference between free and paid.  Currently the referral system unlocks few sections after every 2 referrals I will change it 3 and cap it at 60% of the report unlock instead of whole. Plus add pop up nudges to purchase while the user reads introduction. Just having 1 29$ option is not the best idea so I will add bundles of 3-4 sections and 10$ each. So user can buy what they want. </P>
+
+</p> Plan for tomorrow is to  tighten the free tier and increase the value of paid their.</p>
+
+          `
+        }  
         // Future blog posts will be added here with their own unique slug
       ] 
     };

@@ -965,7 +965,28 @@ export default {
 </p> Plan for tomorrow is to  tighten the free tier and increase the value of paid their.</p>
 
           `
-        }  
+        } ,
+        {
+          id: 25,
+          slug: 'TypeMyVibe-Take-2-Day-24', // <-- Added slug
+          title: 'TypeMyVibe Take 2 Day 24',
+          date: 'February 18, 2025',
+          day: 24,
+          snippet:'Today I implemented the changes to the free and paid tier. The free tier is now much more limited and the paid tier has more value. I hope this increases the conversion.',
+          content:`
+          <p>Hello everyone,</p>
+
+<p> Today I tightened the free tier. Lets see if this impacts the sales.</p>
+
+<p>I am only giving introduction for free and for feedback I am giving strengths and analysis details.</p>
+
+<p>I have also added a option for free and paid in the upload step. While the report generates users get to see their type and meaning but not the reason. Reason shows locked and pay for the full report to see.</p>
+
+<p> I have also implemented speed up for report generation but I am yet to test it cause the slow one has been running for 2 hours.</p>
+
+<p>Tomorrow is going to be a hectic day. I have to give my car for service and insurance claim. That I will take a few hours cause tata service center sucks and in the evening I have a friend’s wedding. So I will hardly be able to work 2-3 hours. In those 2-3 hours my goal will be to create tikTok content for tomorrow and fix and implement speed up for report generation.</p>
+          `
+        } 
         // Future blog posts will be added here with their own unique slug
       ] 
     };

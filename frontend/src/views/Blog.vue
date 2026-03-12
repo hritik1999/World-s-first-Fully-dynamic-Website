@@ -986,6 +986,32 @@ export default {
 
 <p>Tomorrow is going to be a hectic day. I have to give my car for service and insurance claim. That I will take a few hours cause tata service center sucks and in the evening I have a friend’s wedding. So I will hardly be able to work 2-3 hours. In those 2-3 hours my goal will be to create tikTok content for tomorrow and fix and implement speed up for report generation.</p>
           `
+        },
+        {
+          id: 26,
+          slug: 'Entrepreneurship day 25', // <-- Added slug
+          title: 'Entrepreneurship day 25',
+          date: 'March 12, 2025',
+          day: 25,
+          snippet:'The last blog that I wrote was on 18th feb and it was the 24th blog about my journey was building typemyvibe to 10k MRR. ',
+          content:`
+          
+<p>Hello everyone, </p>
+
+<p>The last blog that I wrote was on 18th feb and it was the 24th blog about my journey was building typemyvibe to 10k MRR. Then I went to Assam for a wedding and Allahabad for holi. Those 2 weeks I didn’t work at all and it was not like I didn’t have time to work, I had plenty of time to work but I didn’t. I don’t know why I am like this. I came back on 5th but everything has changed now. Today is 12th and I finally remembered I need to write my blog.</p>
+
+<p>In Allahabad when my sister came and we discussing things topics about what her company uses for AI came up. She works in Aditya Birla fashion group. They have been using AI to create AI models and assets for their website. They are being charged 100rs per photo and 500rs per video. I thought I can give them better quality and at a lower price. She said they are always ready to cut cost. </p>
+
+<p> So the next day after coming back home I started vibe coding the prototype and by the end of the day a working prototype was ready. My sister really liked the output. Since then I was refining the UI/UX ,adding required features and improving the quality of the output.</p>
+
+<p>My plan is to go to Delhi and have a meeting with her team to close a deal with them. If this works I will start earning from next month. Typemyvibe would have taken a long time to be profitable and to generate a descent income.</p>
+
+<p> I have no idea nor any experience in B2B sales but lets see how it goes. I am planning to work as a vendor at first and create assets for them using my tool instead of offering it to them. So that I can  understand and refine everything to there requirements and make it production ready. </p>
+
+<p> Almost all the features are ready just need to add campaign studio so they can create assets for particular campaigns too using the products and collections they have already made in the platform. </p>
+
+<p> I will still work on typemyvibe but this will help me gain and independence </p>
+          `
         } 
         // Future blog posts will be added here with their own unique slug
       ] 

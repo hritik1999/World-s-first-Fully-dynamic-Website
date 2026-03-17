@@ -1012,7 +1012,38 @@ export default {
 
 <p> I will still work on typemyvibe but this will help me gain and independence </p>
           `
-        } 
+        },
+        {
+          id: 27,
+          slug: 'Entrepreneurship day 26', // <-- Added slug
+          title: 'Entrepreneurship day 26',
+          date: 'March 17, 2025',
+          day: 26,
+          snippet:'Forgot to write blog again but I was working. My new product is almost ready and all the features are working but they need optimisation.',
+          content:`
+          <p>Hello everyone, </p>
+
+<p>Forgot to write blog again but I was working. My new product is almost ready and all the features are working but they need optimisation. </p>
+
+<p>My sister asked me to share a list of the services I will be providing. I have asked an LLM to do that and it’s working on it right now. </p>
+
+<p> The features that the platform currently has are Organisation creation, inside organisation they can create brands, for the brand they need to enter the brand url and AI will extract there brand DNA i.e business overview, target customers, brand values, aesthetic and colours. This is used to create AI ambassador for the brand. This brand DNA is used to create all the assets so that the assets generated are aligned with the brand. </p>
+
+<p> Second feature is product creation. Here the user enters the details of the product and uploads frontend and back of the apparel and choose from one the AI ambassadors of the brand. Then chooses from one of the bundles like pdf , social etc or enters there custom requirement. Then prompts are generated for the images and videos and the user can review them and approve them to start the generation of assets. Here they can edit or approve the generated asset. </p>
+
+<p>The next feature is collection here they can select products and create banners and collection videos. </p>
+
+<p> The next feature is campaign studio. Here they can select videos and create sale campaigns or campaigns for holi , Diwali etc. It will create videos and social media posts and meta ads etc. </p>
+
+<p> All of the above features work but it still needs a lot of improvements. The videos generated are very basic and need a lot of improvement. The video model I am using is capable of creating Hollywood level content. I need to improve it a lot but the images are really good. </p>
+
+<p> Lastly the whole platform needs a lot of small UX improvements. </p>
+
+<p> I also need to implement a credit system and payments. Decide pricing etc. But I am not going to do that as initial I am going to work with them as a vendor and provide them assets instead of letting them use the platform. As the platform needs a lot of refinement and security updates and scaling capabilities. This way I will be able to learn there needs better too.</p>
+
+</p> Tomorrow I will send my sister a mail about all the services that I will provide with sample of assets in the evening but before that I will try to improve the assets as much as possible.</p>
+          `
+        }
         // Future blog posts will be added here with their own unique slug
       ] 
     };

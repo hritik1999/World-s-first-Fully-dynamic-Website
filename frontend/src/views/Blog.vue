@@ -1043,6 +1043,32 @@ export default {
 
 </p> Tomorrow I will send my sister a mail about all the services that I will provide with sample of assets in the evening but before that I will try to improve the assets as much as possible.</p>
           `
+        },
+        {
+          id: 28,
+          slug: 'Entrepreneurship day 27', // <-- Added slug
+          title: 'Entrepreneurship day 27',
+          date: 'April 7, 2025',
+          day: 27,
+          snippet:'I had a meeting with the team of Aditya Birla group and it went kind of well. They had some concerns about me being a one man army and the sustainability of the product but they are still interested in doing a free POC with me. I am waiting for them to counter sign the NDA so that we can start the POC.',
+          content:`
+          <p>Hello everyone, </p>
+
+<p> Writing a blog after 20days. A lot has happened since my last blog. </p>
+
+<p> In the last blog I talked about a product for my sisters company Aditya Birla group. So I did complete the product and deployed it. Its live in rooptantra.ai . I also went to Delhi on the last week of march and had a meeting with there team. Everything kind of went well as I am moving ahead with a free POC. </p>
+
+<p> Although they had 2 questions that I had no good answers to and thats what I told them. The first was that I am a one man army and if I get sick what will happen to them. Who will they contact. They will be at a loss. The second question was right now I am very enthusiastic about the product but what if after 6months I get bored and stop working on these. Both of them were good questions and concerns. </p>
+
+<p> After the meeting the had asked me for a bunch of documents and I prepared them and shared it with them. It’s been almost one week and I am still waiting for a reply. All they have to do is counter sign the NDA and the POC will start. If I give them good result during this one month POC we will sign a one month contract. </p>
+
+<p> The thing is I vibe coded this whole project in 2 weeks. I have no idea how it works but its works. I am really scared about it. </p>
+
+<p> I am happy that I had my first b2b meeting and it went kind of successfully. They want me to hire someone so that both of there concerns gets mitigated. I also met a guy in Delhi who can get me 20lakhs of seed funding from the government as he has some contacts in the government but it will cost me 4lakhs. Still this will be very helpful for me. I can hire and take risk with that money.</p>
+
+<p> For now all I can do is wait for them to reply and start the POC. I don’t want to make much changes to the code right now without customers feedback loop but this waiting is very frustrating. I want to start the work soon and deliver to them. I want this work.</p>
+
+          `
         }
         // Future blog posts will be added here with their own unique slug
       ] 

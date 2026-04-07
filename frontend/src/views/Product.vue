@@ -5,6 +5,7 @@ import { Badge } from '@/components/ui/badge'
 import { ArrowRight, Github, Linkedin, Mail, X } from 'lucide-vue-next'
 import SitchatLogo from '@/assets/sitchat.jpg'
 import TypeMyvibeLogo from '@/assets/typemyvibe.JPEG'
+import RoopTantraLogo from '@/assets/rooptantra.png'
 
 export default {
   name: 'Products',
@@ -29,6 +30,15 @@ export default {
           description:'An AI psychoanlyst that analyzes your Social media post / personal chats and tells you your mbti,enneagram, big 5, apttitudinal psyche and Alignment. It uses those to give you insights about your personality and help you understand yourself.',
           url:'https://typemyvibe.ai',
           features: ['MBTI', 'Enneagram', 'Big 5', 'Apttitudinal Psyche', 'Alignment','Self-Understanding','Growth']
+        },
+        {
+          id: 3,
+          name: 'RoopTantra.ai',
+          logo: RoopTantraLogo,
+          tagline: 'AI-Powered Creative Studio for Fashion',
+          description: 'Upload garment images, define your brand once, and generate production-ready photos, videos, banners, and full campaign kits in minutes.',
+          url: 'https://rooptantra.ai',
+          features: ['Apparel Creative', 'Product Photos', 'Videos', 'Banners', 'Campaign Kits', 'Brand Intelligence', 'AI Models']
         }
       ],
       socialLinks: [

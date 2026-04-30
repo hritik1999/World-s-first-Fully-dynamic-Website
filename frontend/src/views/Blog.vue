@@ -1069,6 +1069,76 @@ export default {
 <p> For now all I can do is wait for them to reply and start the POC. I don’t want to make much changes to the code right now without customers feedback loop but this waiting is very frustrating. I want to start the work soon and deliver to them. I want this work.</p>
 
           `
+        },
+        {
+                    id: 29,
+          slug: 'Entrepreneurship day 28', // <-- Added slug
+          title: 'Entrepreneurship day 28',
+          date: 'April 30, 2025',
+          day: 28,
+          snippet: 'Another blog after 23 days. Writing every day is hard, but I will try to be as regular as possible. A lot has happened since the last blog.',
+          content:`
+        <p>Hello everyone,</p>
+
+<p>Another blog after 23 days. Writing every day is hard, but I will try to be as regular as possible. A lot has happened since the last blog.</p>
+
+<p>The product worked, but it was not exactly what the client required. It was also not easy for them to understand, which is usually the case with a new product. Since then, I have made a lot of updates to the platform to meet their requirements and needs.</p>
+
+<p>Below is the list of things I have done since the POC started.</p>
+
+<h2>Week 4</h2>
+
+<ul>
+  <li>Generated 15 assets for W and 8 assets for Elleven.</li>
+  <li>Updated the code to add minimal jewellery and consistent footwear.</li>
+  <li>Updated the AI ambassadors to be fair-skinned and slim, as that is the industry norm.</li>
+</ul>
+
+<h2>Week 3 Features</h2>
+
+<ul>
+  <li>Added bulk upload feature.</li>
+  <li>Added data analysis of sales and inventory.</li>
+  <li>Added data analysis of marketplace and PDP images.</li>
+</ul>
+
+<h2>Week 2 Features</h2>
+
+<ul>
+  <li>Added resolution and compression support.</li>
+  <li>Added organisation logo placement guidelines.</li>
+  <li>Fixed copy edit bug.</li>
+  <li>Made background and copy consistent in mobile and desktop banners.</li>
+  <li>Revamped PDP photo creation to be similar to Ayna.</li>
+  <li>Fixed the aspect ratio of desktop banners to match the client’s requirements.</li>
+  <li>Added template-based option.</li>
+</ul>
+
+<h2>Week 1 Features</h2>
+
+<ul>
+  <li>Product import via PDP links is now live, so users can start creating ads right away without manually uploading images.</li>
+  <li>Added the option to use imported product models instead of AI-generated ones, giving users more control over the look.</li>
+  <li>Added ABFRL logo support. Users can add the logo to assets and manually reposition it if the AI placement is not correct.</li>
+  <li>Removed logo from banners as requested.</li>
+  <li>Added the ability to recreate any asset in different dimensions such as 1:1, 4:5, and 9:16 without regenerating from scratch.</li>
+  <li>Revamped the entire campaign generation pipeline based on client inputs.</li>
+  <li>Fixed the bug where the logo was shifting during edits.</li>
+</ul>
+
+<p>With the above updates, the product is now ready for industry use. The assets for my site are ready to use, but an employee at ABFRL is really against the use of my platform and is actively trying to avoid using it.</p>
+
+<p>She is one of the key users who will be using my platform, and she has been avoiding signing up for it. Last week, which was the third week, she finally signed up but did not use it. To get her to sign up, I first had to do her analysis work.</p>
+
+<p>In my communication with her, her primary concern is always when the POC will be over. She does not want my product to get selected, and it is obvious from the conversations we have had till now. Either she is too comfortable with the existing vendor they use, GetAyna, or she is getting paid by GetAyna, which is very common in the Indian B2B industry.</p>
+
+<p>The thing that really hurts me is that she tries to manipulate me. I understand that, but I do not lash out because the customer is king. So even if she makes false accusations, I just agree and apologise.</p>
+
+<p>The reason I went into entrepreneurship was also because I hate politics. But doing B2B has politics. I still have to deal with people.</p>
+
+<p>I think there is a very low chance of this turning into a contract, but I am happy that I now have an industry-ready platform. If this had gone through, I would have started earning for the first time, and that too a good amount. It would also have been easier to get new clients with ABFRL as an existing client.</p>
+
+<p>Well, I will update what happens in the next 1-2 weeks.</p>`
         }
         // Future blog posts will be added here with their own unique slug
       ] 

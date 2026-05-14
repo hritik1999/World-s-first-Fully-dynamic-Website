@@ -1139,7 +1139,23 @@ export default {
 <p>I think there is a very low chance of this turning into a contract, but I am happy that I now have an industry-ready platform. If this had gone through, I would have started earning for the first time, and that too a good amount. It would also have been easier to get new clients with ABFRL as an existing client.</p>
 
 <p>Well, I will update what happens in the next 1-2 weeks.</p>`
-        }
+        },
+        {
+          id: 30,
+          slug: 'Entrepreneurship day 29', // <-- Added slug
+          title: 'Entrepreneurship day 29',
+          date: 'May 14, 2025',
+          day: 29,
+          snippet:'These days I was not able to write a blog because I had a lot of work to do but now I am writing it in the middle of the day because I don’t know what I should be working on or whats the next step.',
+          content:`
+          <p>Hello everyone, </p>
+
+<p> These days I was not able to write a blog because I had a lot of work to do but now I am writing it in the middle of the day because I don’t know what I should be working on or whats the next step. So I am writing this in hopes of getting some clarity.</p>
+
+<p> In Rooptantra I have been making continuous improvements till last week. I don’t know what I need to do now. Simran won’t use the platform no matter what. She hasn’t even tried using the product and I don’t know how to deal with this. She is the key user as she is the one responsible for generating assets for the market place and own website. My sister Riya who is responsible for creating website assets is the only one using and she uses it once a week because website assets needs is very less. Smarak who is responsible for meta ads tried the platform on the first day and hasn’t used it since then. </p>  <p> My sister said that her process is that she first discusses with chatgpt for planning the campaign and its ad copies and then comes to my platform to generate assets. She wants it to become a chatbot where she can do this but my current system is really simple just add the description of what you need in the campaign and then select the products and number and types of assets you need ,review ad copies then generate. She said that product selection is the last step she does. She is new in the industry so I don’t know if all people work like this and should I revamp the campaigns or not. As the current process is simple and clear. I can just add an agent chatbot that handles my platform. This can be the a good solution Till now she was giving random descriptions instead of detailed ones cause she thought the description was useless. ABFRL feels like a dead end now and I think I should start finding new customers but I have no idea how to do b2b sales. </p>  <p> I am also considering working on typemyvibe again as last month I did 60$ in revenue and I am getting around 2k monthly visitors without any marketing. I can use Claude design to revamp the whole design so it feels premium, trust worthy and overall increase in the brand value. I can also use the latest frontier models to drastically improve the analysis and report pipeline. Start some serious SEO and tiktok marketing work. Maybe in a few months I can reach a decent revenue. </p>  <p>Another option I am thinking is to work on sitchat which was my first product and a passion product. I can now add comic feature for sitcoms with the latest model of gpt-image and then create episodes of those comics using seedance 2 video model. This could also generate revenue and visitors.</p>
+
+<p>Well thats it. Thats all the things that are going on in my mind. I need revenue fast. I had high hopes that Rooptantra and ABFRL deal would work but now it doesn’t seem like it. </p>
+       ` }
         // Future blog posts will be added here with their own unique slug
       ] 
     };

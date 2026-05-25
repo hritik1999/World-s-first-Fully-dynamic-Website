@@ -54,9 +54,7 @@
                 Who Am I?
               </h2>
               <div class="space-y-4 text-lg text-muted-foreground" id="text">
-                <p>I’m Hritik Gupta, 25 years old, and as of now—accomplishments? Nothing. Since I was a kid, my only passion has been creating new things and becoming an entrepreneur. To chase that dream, I spent the last 20 years mostly daydreaming, thinking big, and ignoring almost every other aspect of life.</p>
-                <p>As a result, I now find myself with a shallow understanding of many things but deep expertise in none. I’m not employable in the traditional sense—but entrepreneurship? That’s something I can still pursue. I have a ton of ideas and a little knowledge about domains ranging from product design and development to marketing and finance.</p>
-                <p class="font-semibold text-primary">My plan is simple: keep launching products until one of them succeeds.</p>
+                <p>I’m Hritik Gupta, an AI engineer and indie founder building practical AI products under HG Labs. My work sits at the intersection of applied AI, product design, and entrepreneurship — from TypeMyVibe.ai, which decodes personality from authentic text, to Rooptantra.ai, which helps fashion brands generate AI-powered campaign and product assets. I enjoy turning messy ideas into usable products, learning directly from users, and building systems that feel simple on the surface but powerful underneath.</p>
               </div>
             </section>
   

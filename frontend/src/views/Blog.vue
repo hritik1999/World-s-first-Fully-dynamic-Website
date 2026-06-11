@@ -1048,7 +1048,7 @@ export default {
           id: 28,
           slug: 'Entrepreneurship day 27', // <-- Added slug
           title: 'Entrepreneurship day 27',
-          date: 'April 7, 2025',
+          date: 'April 7, 2026',
           day: 27,
           snippet:'I had a meeting with the team of Aditya Birla group and it went kind of well. They had some concerns about me being a one man army and the sustainability of the product but they are still interested in doing a free POC with me. I am waiting for them to counter sign the NDA so that we can start the POC.',
           content:`
@@ -1074,7 +1074,7 @@ export default {
                     id: 29,
           slug: 'Entrepreneurship day 28', // <-- Added slug
           title: 'Entrepreneurship day 28',
-          date: 'April 30, 2025',
+          date: 'April 30, 2026',
           day: 28,
           snippet: 'Another blog after 23 days. Writing every day is hard, but I will try to be as regular as possible. A lot has happened since the last blog.',
           content:`
@@ -1144,7 +1144,7 @@ export default {
           id: 30,
           slug: 'Entrepreneurship day 29', // <-- Added slug
           title: 'Entrepreneurship day 29',
-          date: 'May 14, 2025',
+          date: 'May 14, 2026',
           day: 29,
           snippet:'These days I was not able to write a blog because I had a lot of work to do but now I am writing it in the middle of the day because I don’t know what I should be working on or whats the next step.',
           content:`
@@ -1155,9 +1155,138 @@ export default {
 <p> In Rooptantra I have been making continuous improvements till last week. I don’t know what I need to do now. Simran won’t use the platform no matter what. She hasn’t even tried using the product and I don’t know how to deal with this. She is the key user as she is the one responsible for generating assets for the market place and own website. My sister Riya who is responsible for creating website assets is the only one using and she uses it once a week because website assets needs is very less. Smarak who is responsible for meta ads tried the platform on the first day and hasn’t used it since then. </p>  <p> My sister said that her process is that she first discusses with chatgpt for planning the campaign and its ad copies and then comes to my platform to generate assets. She wants it to become a chatbot where she can do this but my current system is really simple just add the description of what you need in the campaign and then select the products and number and types of assets you need ,review ad copies then generate. She said that product selection is the last step she does. She is new in the industry so I don’t know if all people work like this and should I revamp the campaigns or not. As the current process is simple and clear. I can just add an agent chatbot that handles my platform. This can be the a good solution Till now she was giving random descriptions instead of detailed ones cause she thought the description was useless. ABFRL feels like a dead end now and I think I should start finding new customers but I have no idea how to do b2b sales. </p>  <p> I am also considering working on typemyvibe again as last month I did 60$ in revenue and I am getting around 2k monthly visitors without any marketing. I can use Claude design to revamp the whole design so it feels premium, trust worthy and overall increase in the brand value. I can also use the latest frontier models to drastically improve the analysis and report pipeline. Start some serious SEO and tiktok marketing work. Maybe in a few months I can reach a decent revenue. </p>  <p>Another option I am thinking is to work on sitchat which was my first product and a passion product. I can now add comic feature for sitcoms with the latest model of gpt-image and then create episodes of those comics using seedance 2 video model. This could also generate revenue and visitors.</p>
 
 <p>Well thats it. Thats all the things that are going on in my mind. I need revenue fast. I had high hopes that Rooptantra and ABFRL deal would work but now it doesn’t seem like it. </p>
-       ` }
-        // Future blog posts will be added here with their own unique slug
-      ] 
+       `
+        },
+       {
+          id: 31,
+          slug: 'Daily journal 1',
+          title: 'Daily journal 1',
+          date: 'June 11, 2026',
+          day: 1,
+          snippet: 'Daily journal entry',
+          content: `Daily journal entry placeholder
+
+            <p>The core logic behind this decision is that while solving maths problems in school, I couldn’t do it in my mind, but with pen and paper I figured it out and solved all the questions.So for my current problems, writing things down might help me solve problems, clear my vision, and move in a directed way.</p>
+
+            <p>The only doubt I have is whether it will work by typing too, or whether I should go with pen and paper.</p>
+
+            <h2>What the Daily Journal Will Include</h2>
+
+            <ul>
+              <li>Goals</li>
+              <li>Tasks</li>
+              <li>What is done</li>
+              <li>What am I doing</li>
+              <li>What worked</li>
+              <li>What failed and why</li>
+            </ul>
+
+            <h2>Where I Am Right Now</h2>
+
+            <p>
+            Right now, I have 3 products:
+            </p>
+
+            <ul>
+              <li>Sitchat, which I made last year at the start of my indie hacking journey.</li>
+              <li>TypeMyVibe, which I created after recovering from my surgery and which generated my first income.</li>
+              <li>Rooptantra, which I made because I could get a deal with one of the biggest companies because my sister works there.</li>
+            </ul>
+
+            <p>
+            I have hired 2 interns because they were struggling to get internships and needed help.
+            I have assigned one intern to work on Sitchat and one intern to work on TypeMyVibe.
+            I myself have been working on Rooptantra.
+            </p>
+
+            <h2>Sitchat</h2>
+
+            <p>
+            Why am I reviving Sitchat after it has been abandoned for a year?
+            Because image models and video models have become too good, and Sitchat can be pivoted into AI-generated micro drama for sitcoms.
+            </p>
+
+            <p>
+            The intern is capable of getting it there with my guidance.
+            The goal is to make it into an app and deploy it to the App Store.
+            </p>
+
+            <h2>TypeMyVibe</h2>
+
+            <p>
+            I put the other intern on TypeMyVibe because it can be improved a lot and it is a simple project, so she will learn a lot.
+            This can make much more money, and I just have to guide her in the right direction.
+            </p>
+
+            <h2>Rooptantra</h2>
+
+            <p>
+            I made Rooptantra in March after Holi, after a discussion with my sister.
+            Then, at the end of March, I had a meeting with their team, and the POC started after a week of paperwork.
+            </p>
+
+            <p>
+            The POC went on for 6 weeks.
+            I made a lot of upgrades for them and fixed a lot of bugs during this time.
+            I shortlisted products for which we would create photos and videos, and those were made live after a lot of issues.
+            </p>
+
+            <p>
+            If the data for the assets had been positive, they would have signed a contract with me.
+            But then they had issues where their traffic dropped, sales dropped, and I got a negative result.
+            After that, they had a merger and everything was paused.
+            </p>
+
+            <p>
+            Now in June, they want to resume the POC and try it again.
+            But I have been turning my product into an agent, and it is currently not in a condition where I can give them access.
+            </p>
+
+            <h2>Current Vision for Rooptantra</h2>
+
+            <p>
+            Turning it into an agent and using chat to create assets for PDP and campaigns was easy.
+            The next step was data integration.
+            </p>
+
+            <p>
+            My vision is simple.
+            I want to make a continuous optimisation loop where the agent uses data to analyse what works and what does not work, stores it in memory, runs experiments, and helps our user grow.
+            </p>
+
+            <p>
+            A continuous optimisation loop.
+            </p>
+
+            <p>
+            But the thing is, I have no idea what kind of data and analysis needs to be done for this.
+            I have been remaking it again and again without any understanding, and I don’t know what to do.
+            </p>
+
+            <p>
+            For now, I have made the agent able to connect and fetch data, do analysis, create reports, and update memory.
+            I tested it and it works.
+            Memory is still left to test.
+            </p>
+
+            <h2>Tasks for Today</h2>
+
+            <ul>
+              <li>Merge the current branch to main.</li>
+              <li>Get OAuth to work with the live site.</li>
+              <li>Contact Rishab and connect his toy store data to see the kind of analysis it can do.</li>
+            </ul>
+
+            <h2>Tasks for Tomorrow</h2>
+
+            <ul>
+              <li>Extensively test everything.</li>
+              <li>Fix issues as they come up.</li>
+            </ul>
+
+          `
+        },
+      ],
     };
   },
   computed: {

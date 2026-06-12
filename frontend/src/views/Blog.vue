@@ -1164,9 +1164,14 @@ export default {
           date: 'June 11, 2026',
           day: 1,
           snippet: 'Daily journal entry',
-          content: `Daily journal entry placeholder
+          content: `
+          <h1>Daily Journal</h1>
 
-            <p>The core logic behind this decision is that while solving maths problems in school, I couldn’t do it in my mind, but with pen and paper I figured it out and solved all the questions.So for my current problems, writing things down might help me solve problems, clear my vision, and move in a directed way.</p>
+<p>
+I have decided to maintain a daily journal that I will be updating daily throughout the day instead of trying to write one at the end of the day.
+I think this is a very important thing to do if I want to grow and reach my goals.
+</p>
+<p>The core logic behind this decision is that while solving maths problems in school, I couldn’t do it in my mind, but with pen and paper I figured it out and solved all the questions.So for my current problems, writing things down might help me solve problems, clear my vision, and move in a directed way.</p>
 
             <p>The only doubt I have is whether it will work by typing too, or whether I should go with pen and paper.</p>
 
@@ -1286,8 +1291,224 @@ export default {
 
           `
         },
+               {
+          id: 31,
+          slug: 'Daily journal 2',
+          title: 'Daily journal 2',
+          date: 'June 12, 2026',
+          day: 2,
+          snippet: 'Yesterday I merged the work to the main branch and got OAuth and data analysis working in production.I couldn’t meet Rishab to test it with real data, but I will do it today.',
+          content: ` <h1>Daily Work Journal</h1>
+
+              <h2>Yesterday's Progress</h2>
+
+              <p>
+              Yesterday I merged the work to the main branch and got OAuth and data analysis working in production.
+              I couldn’t meet Rishab to test it with real data, but I will do it today.
+              </p>
+
+              <h2>Today's Target</h2>
+
+              <p>
+              Today’s target is to test everything and get the memory working properly.
+              I also need to make sure asset linking to data works properly and the data analysis can do more detailed analysis with the user in the loop.
+              </p>
+
+              <p>
+              I also need to update the landing page and start the review process for all the data connectors.
+              I don’t know if I will be able to start the review process today though.
+              </p>
+
+              <h2>Current Progress</h2>
+
+              <p>
+              Right now, I implemented a patch that pulls all the different kinds of data available from the connected sources.
+              </p>
+
+              <p>
+              I improved the analysis so that it keeps the human in the loop and asks questions when needed.
+              </p>
+
+              <p>
+              I also improved the report quality and got it to include better data visualisations.
+              </p>
+
+              <h2>Understanding Memory</h2>
+
+              <p>
+              Now I am trying to understand how the memory works.
+              After that, I will get it to work in the way I think would be best.
+              Then I will run analysis experiments to see if the optimisation loop works in theory at least.
+              </p>
+
+              <p>
+              I read how the memory and asset linking work, but I didn’t understand them properly.
+              I am also not getting a clear vision of what to improve and how to improve it.
+              </p>
+
+              <p>
+              I am going to reread everything again and then write down my understanding and vision here.
+              Meanwhile, I am working on improving the report.
+              </p>
+
+              <h2>How Brand Memory Works</h2>
+
+              <p>
+              The brand memory is stored in Supabase and each row is a different memory.
+              There are four kinds of memory:
+              </p>
+
+              <ul>
+                <li>Data rule</li>
+                <li>Preference</li>
+                <li>Constraint</li>
+                <li>Event</li>
+              </ul>
+
+              <p>
+              There is separate memory for creative learning.
+              </p>
+
+              <p>
+              The memory is stored when the user says a fact, the agent updates the memory based on rules,
+              and the weekly loop also adds learnings.
+              </p>
+
+              <h2>How Asset Linking Works</h2>
+
+              <p>
+              Asset linking can happen in three ways:
+              </p>
+
+              <ul>
+                <li>Linking based on style code</li>
+                <li>User manually links it in the chat</li>
+                <li>Auto-linking based on a memory</li>
+              </ul>
+
+              <h2>How Continuous Optimisation Works</h2>
+
+              <p>
+              Continuous optimisation does three things in order.
+              </p>
+
+              <ol>
+                <li>It re-syncs all data from all sources and creates the latest growth metrics data.</li>
+                <li>It measures and compares before and after for all active actions.</li>
+                <li>It turns learnings into creative learnings.</li>
+              </ol>
+
+              <p>
+              After that, it generates a weekly report with five deterministic analyses:
+              </p>
+
+              <ul>
+                <li>Overview</li>
+                <li>ROAS drivers</li>
+                <li>Creative fatigue</li>
+                <li>Product opportunities</li>
+                <li>Landing-page friction</li>
+              </ul>
+
+              <p>
+              Then it converts findings into proposed growth actions.
+              For example, fatigued creatives can become product shoot suggestions, and rising products can become campaign suggestions.
+              </p>
+
+              <p>
+              The report and action picker are then injected into a chat session so it appears like a conversation.
+              </p>
+
+              <h2>How the Human Closes the Loop</h2>
+
+              <p>
+              The user closes the loop by picking actions in chat.
+              The action moves from proposed to approved.
+              Then the agent generates assets, the user launches them, and next Monday’s maintenance pass measures the results and distills the learnings.
+              </p>
+
+              <p>
+              These learnings feed back into future creation through growth signals and memory lines injected into every chat.
+              This means that every cycle makes the recommendations more targeted and more ads get auto-linked without asking.
+              </p>
+
+              <h2>Changes I Want in Memory, Asset Linking, and Optimisation Loop</h2>
+
+              <p>
+              The memory should exist at three levels:
+              </p>
+
+              <ul>
+                <li>Organisation level</li>
+                <li>Brand level</li>
+                <li>User level</li>
+              </ul>
+
+              <p>
+              There should also be prompt learnings for campaigns and products.
+              These should be stored as markdown files and reviewed weekly by the agent to streamline them.
+              </p>
+
+              <p>
+              I need to think clearly about what should be stored at each level.
+              </p>
+
+              <h2>Asset Linking Improvements</h2>
+
+              <p>
+              Asset linking should also be possible manually by the user.
+              There should be an interface for this on the growth page.
+              </p>
+
+              <p>
+              The user should be able to trigger the learning loop.
+              When triggered, the agent should analyse the data, check what worked and what didn’t,
+              review what prompt changes are needed, and suggest memory updates.
+              </p>
+
+              <p>
+              These memory updates should need user approval.
+              </p>
+
+              <h2>Memory Updates During Normal Chat</h2>
+
+              <p>
+              During normal chats, if the agent sees anything worth adding to memory,
+              it should ask the user for approval to update the memory.
+              But this should not stop the main loop or interrupt the user’s flow.
+              </p>
+
+              <h2>Weekly Report</h2>
+
+              <p>
+              The weekly report should also be done by the agent.
+              </p>
+
+              <p>
+              I also need to think about what other improvements can be added.
+              The main question is whether these changes improve the user experience and help the user grow and optimise their business.
+              </p>
+
+              <h2>Implementation Status</h2>
+
+              <p>
+              The above implementation is done, and some more useful AI-suggested features are being implemented.
+              </p>
+
+              <p>
+              Now, if I have limits left, I will upgrade the landing page too.
+              Otherwise, this part is done.
+              </p>
+
+              <h2>Tomorrow's Plan</h2>
+
+              <p>
+              Tomorrow I need to test each and every feature and start fine-tuning it.
+              </p>
+          `
+        },
       ],
-    };
+    }
   },
   computed: {
     // This computed property finds the post that matches the slug in the URL

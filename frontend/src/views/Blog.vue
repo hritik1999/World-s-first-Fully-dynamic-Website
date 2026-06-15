@@ -1152,7 +1152,7 @@ export default {
 
 <p> These days I was not able to write a blog because I had a lot of work to do but now I am writing it in the middle of the day because I don’t know what I should be working on or whats the next step. So I am writing this in hopes of getting some clarity.</p>
 
-<p> In Rooptantra I have been making continuous improvements till last week. I don’t know what I need to do now. Simran won’t use the platform no matter what. She hasn’t even tried using the product and I don’t know how to deal with this. She is the key user as she is the one responsible for generating assets for the market place and own website. My sister Riya who is responsible for creating website assets is the only one using and she uses it once a week because website assets needs is very less. Smarak who is responsible for meta ads tried the platform on the first day and hasn’t used it since then. </p>  <p> My sister said that her process is that she first discusses with chatgpt for planning the campaign and its ad copies and then comes to my platform to generate assets. She wants it to become a chatbot where she can do this but my current system is really simple just add the description of what you need in the campaign and then select the products and number and types of assets you need ,review ad copies then generate. She said that product selection is the last step she does. She is new in the industry so I don’t know if all people work like this and should I revamp the campaigns or not. As the current process is simple and clear. I can just add an agent chatbot that handles my platform. This can be the a good solution Till now she was giving random descriptions instead of detailed ones cause she thought the description was useless. ABFRL feels like a dead end now and I think I should start finding new customers but I have no idea how to do b2b sales. </p>  <p> I am also considering working on typemyvibe again as last month I did 60$ in revenue and I am getting around 2k monthly visitors without any marketing. I can use Claude design to revamp the whole design so it feels premium, trust worthy and overall increase in the brand value. I can also use the latest frontier models to drastically improve the analysis and report pipeline. Start some serious SEO and tiktok marketing work. Maybe in a few months I can reach a decent revenue. </p>  <p>Another option I am thinking is to work on sitchat which was my first product and a passion product. I can now add comic feature for sitcoms with the latest model of gpt-image and then create episodes of those comics using seedance 2 video model. This could also generate revenue and visitors.</p>
+<p> In Rooptantra I have been making continuous improvements till last week. I don’t know what I need to do now. Simran won’t use the platform no matter what. She hasn’t even tried using the product and I don’t know how to deal with this. She is the key user as she is the one responsible for generating assets for the market place and own website. My sister Riya who is responsible for creating website assets is the only one using and she uses it once a week because website assets needs is very less. Smarak who is responsible for meta ads tried the platform on the first day and hasn’t used it since then. </p><p> My sister said that her process is that she first discusses with chatgpt for planning the campaign and its ad copies and then comes to my platform to generate assets. She wants it to become a chatbot where she can do this but my current system is really simple just add the description of what you need in the campaign and then select the products and number and types of assets you need ,review ad copies then generate. She said that product selection is the last step she does. She is new in the industry so I don’t know if all people work like this and should I revamp the campaigns or not. As the current process is simple and clear. I can just add an agent chatbot that handles my platform. This can be the a good solution Till now she was giving random descriptions instead of detailed ones cause she thought the description was useless. ABFRL feels like a dead end now and I think I should start finding new customers but I have no idea how to do b2b sales. </p><p> I am also considering working on typemyvibe again as last month I did 60$ in revenue and I am getting around 2k monthly visitors without any marketing. I can use Claude design to revamp the whole design so it feels premium, trust worthy and overall increase in the brand value. I can also use the latest frontier models to drastically improve the analysis and report pipeline. Start some serious SEO and tiktok marketing work. Maybe in a few months I can reach a decent revenue. </p><p>Another option I am thinking is to work on sitchat which was my first product and a passion product. I can now add comic feature for sitcoms with the latest model of gpt-image and then create episodes of those comics using seedance 2 video model. This could also generate revenue and visitors.</p>
 
 <p>Well thats it. Thats all the things that are going on in my mind. I need revenue fast. I had high hopes that Rooptantra and ABFRL deal would work but now it doesn’t seem like it. </p>
        `
@@ -1507,6 +1507,75 @@ I think this is a very important thing to do if I want to grow and reach my goal
               </p>
           `
         },
+        {
+          id: 32,
+          slug: 'Daily journal 2',
+          title: 'Daily journal 2',
+          date: 'June 15, 2026',
+          day: 3,
+          snippet: '>Yesterday I didn’t write a journal because I wasn’t feeling really well, but I still did some work.',
+          content:`
+          <h1>Journal</h1>
+
+<p>Yesterday I didn’t write a journal because I wasn’t feeling really well, but I still did some work.</p>
+
+<p>I finalised the landing page and chat design language of the whole site yesterday. I got feedback from a few people and it was really positive.</p>
+
+<p>I tried the new algorithm that Fable made for TypeMyVibe. The report was seriously good. I loved reading it. Till now, no algorithm that I tried impressed me, but for the first time I loved the report. People told me it was awesome, but I never felt that way. Now it is at that level.</p>
+
+<p>Fable did insane work with it. I feel like I can sell it now.</p>
+
+<p>But sadly, the US government banned Fable. I had so many plans with it. I even bought the $100 subscription for it, even though the $100 Codex subscription was enough for me. I was heartbroken yesterday. This is the first time geopolitical issues have mattered to me.</p>
+
+<p>I wasn’t feeling well yesterday because I was not sleeping properly for the last two days. I was busy using Fable.</p>
+
+<p>I am thinking about whether to get a refund or not. I think I should use the extra credit to set up marketing skills: SEO loop and TikTok loop for TypeMyVibe, and Google Ads for Rooptantra.</p>
+
+<p>I have been building long enough. It’s time to sell.</p>
+
+<p>It is Sunday, so I am not going to work much because I try to keep Sundays free. So let’s plan a roadmap and things to do this week.</p>
+
+<h2>Rooptantra</h2>
+
+<p>I found two competitors. I am planning to understand their proven workflow and then implement the learnings in my platform.</p>
+
+<p>I also need to learn more about digital marketing, finalise the platform, finalise the pricing structure, implement payments, and set up PostHog properly.</p>
+
+<p>Then I want to start marketing in July.</p>
+
+<p>I am not sure whether to pursue Aditya Birla or not. Getting them as a client would solve my money problems.</p>
+
+<h2>TypeMyVibe</h2>
+
+<p>I need to add a new pricing tier and see how that works.</p>
+
+<p>I also need to set up PostHog properly and start A/B testing things.</p>
+
+<p>I want to create a skill loop for that. I also want to set up an SEO research, writing, and review skill loop.</p>
+
+<p>I also want to experiment with ads using skills.</p>
+
+<p>The main purpose of this is that the learnings from automation with AI will help me improve Rooptantra.</p>
+
+<h2>Sitchat</h2>
+
+<p>For Sitchat, I will just get to a working episode.</p>
+
+<p>Then I will create an app for the App Store and Play Store.</p>
+
+<p>After that, I will iterate on the algorithm.</p>
+
+<p>I will do organic marketing for this.</p>
+
+<h2>Timeline</h2>
+
+<p>I want to finalise Rooptantra this month and start Google Ads next month.</p>
+
+<p>TypeMyVibe can start now.</p>
+
+<p>Sitchat will keep happening in the background.</p>
+          `
+        }
       ],
     }
   },

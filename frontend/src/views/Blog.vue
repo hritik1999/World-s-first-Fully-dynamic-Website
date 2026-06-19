@@ -1616,6 +1616,53 @@ I think this is a very important thing to do if I want to grow and reach my goal
 
 <p>Hopefully, this is complete within the next 2-3 days. Then I can implement payments and finally make the deployment scalable.</p>
           `
+        },
+        {
+          id: 34,
+          slug: 'Daily journal 5',
+          title: 'Daily journal 5',
+          date: 'June 19, 2026',
+          day: 5,
+          snippet:'I have been working very lazily and waiting for Fable to come back. The current models have been dumbed down a lot. It is hard to even trust what they are doing at this point. Using them is probably causing more damage than help, but I cannot stop working.',
+          content:`
+          <h1>Daily Journal</h1>
+
+<p>
+I have been working very lazily and waiting for Fable to come back. The current models have been dumbed down a lot. It is hard to even trust what they are doing at this point. Using them is probably causing more damage than help, but I cannot stop working.
+</p>
+
+<p>
+Yesterday I did not write a journal. I do not know why it is so hard to be consistent with this, but I think it is important.
+</p>
+
+<p>
+Yesterday I improved the template-based option in product image generation. It is now a bundle instead of making the user choose the model, poses, backgrounds, and jewellery one at a time. This should improve the user experience by a lot.
+</p>
+
+<p>
+I also implemented a better UX for prompt suggestions. It now categorises suggestions into different categories like diagnosis, create, campaign, trends, competitor, and more.
+</p>
+
+<p>
+I also added web search to the agent so that it can do research for customers.
+</p>
+
+<p>
+Now I am not sure what to implement today from the list of things to do. I think I should go with scheduled tasks and competitor ad library.
+</p>
+
+<p>
+Automation has been implemented and tested. It works well. But my Codex limits are over now.
+</p>
+
+<p>
+The competitor ads library and cloning is also implemented and working.
+</p>
+
+<p>
+Tomorrow I am going to fix memory and asset linking, revamp the growth page, and implement auto product import.
+</p>
+          `
         }
       ],
     }

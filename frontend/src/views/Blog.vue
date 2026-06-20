@@ -1663,6 +1663,30 @@ The competitor ads library and cloning is also implemented and working.
 Tomorrow I am going to fix memory and asset linking, revamp the growth page, and implement auto product import.
 </p>
           `
+        },
+        {
+         id: 35,
+          slug: 'Daily journal 6',
+          title: 'Daily journal 6',
+          date: 'June 20, 2026',
+          day: 6,
+          snippet:"Everything built yesterday is working properly, and clone assets works too well, especially for videos. I was surprised by the results.",
+          content:`
+<p>Everything built yesterday is working properly, and clone assets works too well, especially for videos. I was surprised by the results.</p>
+
+<p>Today, I have already started working on asset linking and memory tests and fixes. Hopefully, I can get this to work properly today.</p>
+
+<p>I am also trying to utilise Claude and Codex subscription by having Claude do the research and planning, and using Codex for implementation. This way, I can get the best of both worlds. Let’s see how it performs.</p>
+
+<p>This setup is working, but it is too slow compared to using the normal workflow in Claude. It has been running for 2 hours now. But if it works, then it was all worth it.</p>
+
+<p>When I had the agent test everything, the results looked promising. But I cannot merge before testing it manually myself. Right now, I am not feeling at my best, so I am going to do this on Monday.</p>
+
+<p>Technically, the asset linking and memory are working now, but I am not going to remove them from my todo list until I manually test them.</p>
+
+<p>Tomorrow is Sunday. I am going to read through all my previous journals, reflect, and make plans for the following week.</p>
+
+          `
         }
       ],
     }

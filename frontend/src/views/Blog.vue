@@ -1687,6 +1687,17 @@ Tomorrow I am going to fix memory and asset linking, revamp the growth page, and
 <p>Tomorrow is Sunday. I am going to read through all my previous journals, reflect, and make plans for the following week.</p>
 
           `
+        },
+        {
+          id: 36,
+          slug: 'Daily journal 7',
+          title: 'Daily journal 7',
+          date: 'June 23, 2026',
+          day: 7,
+          snippet:"Sunday I lazed around and didn’t do anything. I didn’t reflect on the week like I had planned.",
+          content:`
+          <p>Sunday I lazed around and didn’t do anything. I didn’t reflect on the week like I had planned.</p> <p>On Monday, I went shopping because next Tuesday I am going to Vietnam. I will do the weekly reflection today because I think it is very important.</p> <p>I found a prompt where we ask the agent to map out user stories and then run them like a real user using browser use. After that, it fixes the errors and runs the tests again to check if everything works as intended.</p> <p>This ran for 4-5 hours. I have an Excel sheet with all the information, and I will go through it now.</p> <p>The agent had done a lot of partial testing of many features. I am getting it to do a full detailed analysis now.</p> <p>I went through the journals I have written since 11th June. Today is 23rd June. Technically, I should have written 11 journals, but I have only written six. I need to become more consistent.</p> <p>In the content, I feel like I am not making progress, but when I look at the weeks, I have accomplished most of the things I wanted to. I couldn’t gain many insights from the journals though. The only thing I need to do is increase my consistency.</p> <h2>Things Left To Do</h2> <ul> <li>Revamp growth page and landing page.</li> <li>Get the OAuth apps reviewed.</li> <li>Move to a scalable deployment.</li> <li>Implement payments.</li> <li>Implement PostHog and Sentry for analytics.</li> <li>Read and improve all prompts and skills.</li> </ul> <p>There are 5 main things left before I can start marketing.</p>
+          `
         }
       ],
     }

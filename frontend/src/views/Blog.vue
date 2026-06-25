@@ -1698,6 +1698,29 @@ Tomorrow I am going to fix memory and asset linking, revamp the growth page, and
           content:`
           <p>Sunday I lazed around and didn’t do anything. I didn’t reflect on the week like I had planned.</p> <p>On Monday, I went shopping because next Tuesday I am going to Vietnam. I will do the weekly reflection today because I think it is very important.</p> <p>I found a prompt where we ask the agent to map out user stories and then run them like a real user using browser use. After that, it fixes the errors and runs the tests again to check if everything works as intended.</p> <p>This ran for 4-5 hours. I have an Excel sheet with all the information, and I will go through it now.</p> <p>The agent had done a lot of partial testing of many features. I am getting it to do a full detailed analysis now.</p> <p>I went through the journals I have written since 11th June. Today is 23rd June. Technically, I should have written 11 journals, but I have only written six. I need to become more consistent.</p> <p>In the content, I feel like I am not making progress, but when I look at the weeks, I have accomplished most of the things I wanted to. I couldn’t gain many insights from the journals though. The only thing I need to do is increase my consistency.</p> <h2>Things Left To Do</h2> <ul> <li>Revamp growth page and landing page.</li> <li>Get the OAuth apps reviewed.</li> <li>Move to a scalable deployment.</li> <li>Implement payments.</li> <li>Implement PostHog and Sentry for analytics.</li> <li>Read and improve all prompts and skills.</li> </ul> <p>There are 5 main things left before I can start marketing.</p>
           `
+        },
+        {
+          id: 37,
+          slug: 'Daily journal 8',
+          title: 'Daily journal 8',
+          date: 'June 25, 2026',
+          day: 8,
+          snippet:"The whole test of the application completed today. Every issue detected has been fixed and all the 254 user stories pass. Now it’s time to merge the PR and then do the things that are left like payment, analytics, etc. Then marketing can start.",
+          content:`
+          <p>The whole test of the application completed today. Every issue detected has been fixed and all the 254 user stories pass. Now it’s time to merge the PR and then do the things that are left like payment, analytics, etc. Then marketing can start.</p>
+
+<p>Wrote the first 2 lines. Did some minor fixes, merged the PR and then a friend contacted me and I went out with them.</p>
+
+<p>Today instead of working on Rooptantra, I am working on improving TypeMyVibe. The PR the intern made has some issue and I need some more changes. But today I will at least apply for approval of the OAuths in Rooptantra.</p>
+
+<p>The 90% of work gets completed fast but these last 10% take the most time. Also there is a lot of procrastination in the last 10%. I don’t know why, but this happens with all the projects. Even my intern who is working on Sitchat is facing the same problem. I spoke with a friend and they have the same experience. I don’t know why this is the case with the last 10%.</p>
+
+<p>I am procrastinating the OAuth approval process. I hate paperwork and bureaucracy but this needs to be done.</p>
+
+<p>I read the process of getting approval. It’s too tedious. Don’t want to do that.</p>
+
+<p>I will get TypeMyVibe changes working and merged today. Tomorrow I will continue working on Rooptantra.</p>
+          `
         }
       ],
     }

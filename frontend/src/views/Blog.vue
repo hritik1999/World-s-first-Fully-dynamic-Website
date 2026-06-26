@@ -1721,6 +1721,33 @@ Tomorrow I am going to fix memory and asset linking, revamp the growth page, and
 
 <p>I will get TypeMyVibe changes working and merged today. Tomorrow I will continue working on Rooptantra.</p>
           `
+        },
+        {
+          id: 38,
+          slug: 'Daily journal 9',
+          title: 'Daily journal 9',
+          date: 'June 26, 2026',
+          day: 9,
+          snippet:"Typemyvibe’s new payment tier is live and the skill file to add character analysis works now. Today I am working on Rooptantra again",
+          content:`
+          p>Typemyvibe’s new payment tier is live and the skill file to add character analysis works now. Today I am working on Rooptantra again, but I feel really lazy and don’t feel like working. Idk why, but I gotta do some work.</p>
+
+<p>The goal of the skill is to keep adding character analysis reports so we can increase traffic to the site. I need to upgrade this so it takes data from trends and Search Console. Then it should create reports of shows and characters people are searching for. With a big library, I should start seeing a rise in sales.</p>
+
+<p>In Rooptantra, all the tests passed, but today I tried generating assets and prompt generation failed. I fixed that first. Then there was a rendering issue. I fixed that too. Then the video generated had the dialogue cutoff issue again. Idk how it came back, but I fixed it again. I also did a UI/UX change for asset generation because the current one was really bad.</p>
+
+<p>I also implemented all the regulatory requirements for OAuth approval for all the data connectors. Now I can move to filing them.</p>
+
+<p>Also, the Sitchat comics are really good now. There was an issue with continuity of the story because the intern had made some bad changes. I told him exactly what to do. Once he implements this, the stories will be banger because the characters are accurate and so are the relationship dynamics. Once he fixes the continuity issue, the stories would be bangers. Tomorrow I am gonna work on Sitchat to make it ready for customer use.</p>
+
+<h2>Current Plan to Generate Income</h2>
+
+<p>For Typemyvibe, the plan is to run SEO loops using data from Ahrefs. Currently, the conversion rate is 0.25%. I need to increase this to 1% and increase traffic from SEO to 40-50k. That way Typemyvibe would start generating good income.</p>
+
+<p>For Sitchat, the plan is to create a few accounts for each show on TikTok, Instagram, and YouTube, and then implement a loop to generate content daily and post it. Even if I can’t directly earn from Sitchat, I hope that I can earn from these 3 platforms.</p>
+
+<p>For Rooptantra, I found a site called Origami that is an AI agent for B2B outreach. I am gonna try that and Google Ads once the platform is ready.</p>
+          `
         }
       ],
     }
